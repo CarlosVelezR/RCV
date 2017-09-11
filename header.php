@@ -23,7 +23,7 @@
 			<div class="container clearfix">
 				<!--Top Left-->
 				<div class="top-left pull-left">
-					<p>Bienvenido <span>RCV System</span></p>
+					<p>Bienvenido</p>
 				</div>
                 <!--Top Right-->
 				<div class="top-right pull-right">
