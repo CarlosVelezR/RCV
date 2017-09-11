@@ -18,80 +18,15 @@
 </head>
 
 <body>
-	<div class="boxed_wrapper">
-		<!-- Header Top start -->
-		<div class="header-top">
-			<div class="container clearfix">
-				<!--Top Left-->
-				<div class="top-left pull-left">
-					<p>Bienvenido <span>RCV System</span></p>
-				</div>
-                <!--Top Right-->
-				<div class="top-right pull-right">
-                    <ul class="list">
-                        <li><a href="#"><i class="fa fa-clock-o" aria-hidden="true"></i>
-                        08:00am - 06:00pm (Lun- Vie)</a></li>
-                        <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i>sac@rcvsystem.com</a></li>
-                    </ul>
-					
-                   
-				</div>
-			</div>
-		</div><!-- Header Top End -->
 
-			<!--Menu de navegación -->
+<?
+  include 'header.php';/* Incluye el header ya creado */
+   /* Contenido */
+   <div id="main">
 
-			<section class="mainmenu-area stricky">
-			    <div class="container">
-			    	<div class="row">
-			    		<div class="col-md-4">
-							<div class="main-logo">
-								<a href="index-1.htm"><img src="images\logo\logo.png" alt=""></a>
-							</div>
-						</div>
-						
-						<div class="col-md-6 menu-column">
-							<nav class="main-menu">
-					            <div class="navbar-header">     
-					                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-					                    <span class="icon-bar"></span>
-					                    <span class="icon-bar"></span>
-					                    <span class="icon-bar"></span>
-					                    <span class="icon-bar"></span>
-					                </button>
-					            </div>
-					            <div class="navbar-collapse collapse clearfix">
-					                <ul class="navigation clearfix">
-
-					                    <li class="current"><a href="index.htm">Inicio</a></li>	                  
-					                    <li class="dropdown"><a href="#">Servicios</a>
-						                    
-					                        <ul>					                        
-												<li><a href="service-single-mantprevent.htm">Mantenimiento preventivo</a></li>
-												<li><a href="service-single-mantcorrect.htm">Mantenimiento correctivo</a></li>
-												<li><a href="service-single-mantcorrect.htm">Instalación de equipos</a></li>
-												<li><a href="service-single-mantcorrect.htm">Refrigeración</a></li>
-											</ul>	
-					                    </li>
-
-					                    <li><a href="contact.htm">Contacto</a></li>
-					                </ul>
-
-					                <ul class="mobile-menu clearfix">
-					                    <li class="current"><a href="index.htm">Inicio</a></li>		                   
-					                    <li><a href="contact.htm">Contacto</a></li>
-
-					                </ul>
-					            </div>
-					        </nav>
-						</div>											
-			    	</div>
-			        
-			    </div>
-			</section>
-
-	<!--Fin de menú navegación -->
-
+   </div>
+  include 'footer.php'; /* Incluye el footer ya creado */
+ ?>
 
 		<!--Start rev slider wrapper-->
 
