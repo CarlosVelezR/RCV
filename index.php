@@ -746,7 +746,7 @@
                     </div>
                     <div class="col-md-3">
 
-                        <a href="contact.php" class="thm-btn inverse pull-right">Contactanos</a>
+                        <a href="contact.php" class="content">Contactanos</a>
                     </div>
                 </div>
             </div>
