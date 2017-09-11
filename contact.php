@@ -43,7 +43,7 @@
 
 		<section class="contact_us">
 			<div class="container">   
-                <div class="sec-title text-center">
+                <div class="item">
                     <h2>Contactenos<span></span></h2>
                 </div>
                 <div class="default-form-area">
