@@ -45,7 +45,7 @@
 			    	<div class="row">
 			    		<div class="col-md-4">
 							<div class="main-logo">
-								<a href="index-1.htm"><img src="images\logo\logo.png" alt=""></a>
+								<a href="index.php"><img src="images\logo\logo.png" alt=""></a>
 							</div>
 						</div>
 						
@@ -73,7 +73,7 @@
 											</ul>	
 					                    </li>
 
-					                    <li><a href="contact.htm">Contacto</a></li>
+					                    <li><a href="contact.php">Contacto</a></li>
 					                </ul>
 
 					                <ul class="mobile-menu clearfix">
