@@ -69,8 +69,7 @@
 												<li><a href="service-single-mantprevent.htm">Mantenimiento preventivo</a></li>
 												<li><a href="service-single-mantcorrect.htm">Mantenimiento correctivo</a></li>
 												<li><a href="service-single-mantcorrect.htm">Instalación de equipos</a></li>
-												<li><a href="service-single-mantcorrect.htm">Refrigeración</a></li>
-												<li><a href="service-single-mantcorrect.htm">Test2</a></li>
+												<li><a href="service-single-mantcorrect.htm">Refrigeración</a></li>		
 											</ul>	
 					                    </li>
 
