@@ -35,7 +35,7 @@
                 </div>
                 <ul class="breadcumb">
                     
-                    <li><a class="active" href="service-single-mantprevent.htm">Mantenimiento Preventivo</a></li>
+                    <li><a class="active" href="service-single-mantprevent.php">Mantenimiento Preventivo</a></li>
                 </ul>
             </div>
         </section>
@@ -72,7 +72,7 @@
 											<div class="overlay">
 												<div class="inner">
 													<div class="social">
-														<a href="service-single-mantcorrect.htm"><i class="flaticon-nature-6"></i></a>	
+														<a href="service-single-mantcorrect.php"><i class="flaticon-nature-6"></i></a>	
 														
 													</div>
 													
@@ -80,10 +80,10 @@
 											</div>
 										</div>
 										<div class="text">
-		                                    <h4><a href="service-single.htm">Mantenimiento correctivo</a></h4>
+		                                    <h4><a href="service-single.php">Mantenimiento correctivo</a></h4>
 		                                    <p>Este tipo de mantenimiento permite corregir mal funcionamiento</p>
 		                                    <div class="link-btn">
-		                                        <a href="service-single-mantcorrect.htm">Ver servicio<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+		                                        <a href="service-single-mantcorrect.php">Ver servicio<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
 		                                    </div>
 		                                </div>
 									
@@ -96,7 +96,7 @@
 											<div class="overlay">
 												<div class="inner">
 													<div class="social">
-														<a href="service-single-mantcorrect.htm"><i class="flaticon-nature-6"></i></a>	
+														<a href="service-single-mantcorrect.php"><i class="flaticon-nature-6"></i></a>	
 														
 													</div>
 													
@@ -104,10 +104,10 @@
 											</div>
 										</div>
 										<div class="text">
-		                                    <h4><a href="service-single.htm">Instalación equipos</a></h4>
+		                                    <h4><a href="service-single.php">Instalación equipos</a></h4>
 		                                    <p>Diseño y planeación para su edificio</p>
 		                                    <div class="link-btn">
-		                                        <a href="service-single-mantcorrect.htm">Ver servicio<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+		                                        <a href="service-single-mantcorrect.php">Ver servicio<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
 		                                    </div>
 		                                </div>
 									
@@ -132,7 +132,7 @@
                     </div>
                     <div class="col-md-3">
 
-                        <a href="contact.htm" class="thm-btn inverse pull-right">Contactanos</a>
+                        <a href="contact.php" class="thm-btn inverse pull-right">Contactanos</a>
                     </div>
                 </div>
             </div>

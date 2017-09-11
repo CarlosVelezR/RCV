@@ -132,7 +132,7 @@
                     </div>
                     <div class="col-md-3">
 
-                        <a href="contact.htm" class="thm-btn inverse pull-right">Contactanos</a>
+                        <a href="contact.php" class="thm-btn inverse pull-right">Contactanos</a>
                     </div>
                 </div>
             </div>

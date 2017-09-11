@@ -64,7 +64,7 @@
 						<div class="tp-caption tp-resizeme" data-x="left" data-hoffset="10" data-y="top" data-voffset="450" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-start="2300">
 							<div class="slide-content-box">
 								<div class="button">
-									<a class="thm-btn yellow-bg" href="contact.htm">Contactenos</a>     
+									<a class="thm-btn yellow-bg" href="contact.php">Contactenos</a>     
 								</div>
 							</div>
 						</div>
@@ -92,7 +92,7 @@
 						<div class="tp-caption tp-resizeme" data-x="left" data-hoffset="10" data-y="top" data-voffset="450" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-start="2300">
 							<div class="slide-content-box">
 								<div class="button">
-									<a class="thm-btn yellow-bg" href="contact.htm">contact us</a>     
+									<a class="thm-btn yellow-bg" href="contact.php">contact us</a>     
 								</div>
 							</div>
 						</div>
@@ -119,7 +119,7 @@
 						<div class="tp-caption tp-resizeme" data-x="left" data-hoffset="10" data-y="top" data-voffset="450" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-start="2300">
 							<div class="slide-content-box">
 								<div class="button">
-									<a class="thm-btn yellow-bg" href="contact.htm">contact us</a>     
+									<a class="thm-btn yellow-bg" href="contact.php">contact us</a>     
 								</div>
 							</div>
 						</div>
@@ -149,7 +149,7 @@
                                 <i class="icon flaticon-nature-4"></i>
                             </div>
                             <div class="content-box">
-                                <h4><a href="service-single-mantprevent.htm">Mantenimiento Preventivo</a></h4>
+                                <h4><a href="service-single-mantprevent.php">Mantenimiento Preventivo</a></h4>
                                
                             </div>
                         </div>
@@ -168,7 +168,7 @@
                                 <i class="flaticon-watering-can"></i>
                             </div>
                             <div class="content-box">
-                                <h4><a href="service-single-mantcorrect.htm">Mantenimiento Correctivo</a></h4>
+                                <h4><a href="service-single-mantcorrect.php">Mantenimiento Correctivo</a></h4>
                                
                             </div>
                         </div>
@@ -303,7 +303,7 @@
 									<div class="overlay">
 										<div class="inner">
 											<div class="social">
-												<a href="service-single.htm"><i class="flaticon-nature-6"></i></a>	
+												<a href="service-single.php"><i class="flaticon-nature-6"></i></a>	
 												
 											</div>
 											
@@ -311,7 +311,7 @@
 									</div>
 								</div>
 								<div class="text">
-                                    <h4><a href="service-single.htm">Sistema Eléctrico</a></h4>
+                                    <h4><a href="service-single.php">Sistema Eléctrico</a></h4>
                                     <p>Medición de voltajes de entrada y salida y consumo de amperaje, Revisión y ajuste de terminales.</p>
                                     <div class="link-btn">
                                         <a href="#">Ver servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
@@ -335,7 +335,7 @@
 									</div>
 								</div>
 								<div class="text">
-                                    <h4><a href="service-single.htm">Carga De Refrigerante</a></h4>
+                                    <h4><a href="service-single.php">Carga De Refrigerante</a></h4>
                                     <p>Realizamos la carga por peso  de refrigerante de acuerdo a la capacidad del equipo.</p>
                                     <div class="link-btn">
                                         <a href="#">Ver servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
@@ -358,7 +358,7 @@
 									</div>
 								</div>
 								<div class="text">
-                                    <h4><a href="service-single.htm">Toma De Presiones</a></h4>
+                                    <h4><a href="service-single.php">Toma De Presiones</a></h4>
                                     <p>Toma de presión por baja y alta para determinar fugas en el sistema.</p>
                                     <div class="link-btn">
                                         <a href="#">Ver Servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a> 
@@ -381,7 +381,7 @@
 									</div>
 								</div>
 								<div class="text">
-                                    <h4><a href="service-single.htm">Protecciones Eléctricas</a></h4>
+                                    <h4><a href="service-single.php">Protecciones Eléctricas</a></h4>
                                     <p>Realizamos instalaciones independientes con protección para evitar daños.</p>
                                     <div class="link-btn">
                                         <a href="#">Ver Servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
@@ -404,7 +404,7 @@
 									</div>
 								</div>
 								<div class="text">
-                                    <h4><a href="service-single.htm">Mantenimiento Split</a></h4>
+                                    <h4><a href="service-single.php">Mantenimiento Split</a></h4>
                                     <p>Limpieza interna y externa de manejadora, condensadora, y lavado de serpentín.</p>
                                     <div class="link-btn">
                                         <a href="#">Ver Servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
@@ -606,7 +606,7 @@
                                         <a href="#"><i class="flaticon-nature-5"></i></a>
                                     </div>
                                 </div>
-                                <h4><a href="single-project.htm">Congeladores</a></h4>
+                                <h4><a href="single-project.php">Congeladores</a></h4>
                                 
                             </div>
                             
@@ -746,7 +746,7 @@
                     </div>
                     <div class="col-md-3">
 
-                        <a href="contact.htm" class="thm-btn inverse pull-right">Contactanos</a>
+                        <a href="contact.php" class="thm-btn inverse pull-right">Contactanos</a>
                     </div>
                 </div>
             </div>
@@ -941,7 +941,7 @@
 	                                    <li><i class="fa fa-comments" aria-hidden="true"></i>4 Comments</li>
 	                                </ul>
 
-	                                <h4><a href="blog-details.htm">Condensadora LG </a></h4>
+	                                <h4><a href="blog-details.php">Condensadora LG </a></h4>
                                 	<p>Rcv Air System líder en la distribución unidad condensadora, es una empresa con más de 4 años en el mercado. Somos el distribuidor mayorista Carrier con el primer lugar en ventas a nivel nacional.</p>
 								</div>
 							</div>

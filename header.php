@@ -88,6 +88,4 @@
 			</section>
 </body>
 </html>
-
-
 	<!--Fin de menú navegación -->
