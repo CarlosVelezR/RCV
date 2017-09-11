@@ -18,80 +18,13 @@
 </head>
 
 <body>
-	<div class="boxed_wrapper">
-		<!-- Header Top start -->
-		<div class="header-top">
-			<div class="container clearfix">
-				<!--Top Left-->
-				<div class="top-left pull-left">
-					<p>Bienvenido  <span>RCV System</span></p>
-				</div>
-                <!--Top Right-->
-				<div class="top-right pull-right">
-                    <ul class="list">
-                        <li><a href="#"><i class="fa fa-clock-o" aria-hidden="true"></i>
-                        08:00am - 06:00pm (Lun- Vie)</a></li>
-                        <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i>sac@rcvsystem.com</a></li>
-                    </ul>
-					
-                   
-				</div>
-			</div>
-		</div><!-- Header Top End -->
+	<!-- Master Page Header -->
 
-		<!--Menu de navegación -->
+<?
+  include 'header.php';
+ ?>
 
-			<section class="mainmenu-area stricky">
-			    <div class="container">
-			    	<div class="row">
-			    		<div class="col-md-4">
-							<div class="main-logo">
-								<a href="index-1.htm"><img src="images\logo\logo.png" alt=""></a>
-							</div>
-						</div>
-						
-						<div class="col-md-6 menu-column">
-							<nav class="main-menu">
-					            <div class="navbar-header">     
-					                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-					                    <span class="icon-bar"></span>
-					                    <span class="icon-bar"></span>
-					                    <span class="icon-bar"></span>
-					                    <span class="icon-bar"></span>
-					                </button>
-					            </div>
-					            <div class="navbar-collapse collapse clearfix">
-					                <ul class="navigation clearfix">
-
-					                    <li class="current"><a href="index.htm">Home</a></li>	                  
-					                    <li class="dropdown"><a href="#">Servicios</a>
-						                    
-					                        <ul>					                        
-												<li><a href="service-single-mantprevent.htm">Mantenimiento preventivo</a></li>
-												<li><a href="service-single-mantcorrect.htm">Mantenimiento correctivo</a></li>
-											</ul>	
-					                    </li>
-
-					                    <li><a href="contact.htm">Contacto</a></li>
-					                </ul>
-
-					                <ul class="mobile-menu clearfix">
-					                    <li class="current"><a href="index.htm">Inicio</a></li>		                   
-					                    <li><a href="contact.htm">Contacto</a></li>
-
-					                </ul>
-					            </div>
-					        </nav>
-						</div>
-
-						
-						
-			    	</div>
-			        
-			    </div>
-			</section>
-
-	<!--Fin de menú navegación -->
+ <!-- Fin Master Page Header -->
 
 		<!--Start page-banner-->
         <section class="page-banner" style="background-image:url(images/resources/single-service.jpg);">
@@ -205,129 +138,9 @@
             </div>
         </section>
 
-		<div class="footer">
-			<div class="container">
-				<div class="footer-upper">
-					<div class="item-list">
-						<div class="row">
-							<div class="col-md-3 col-sm-6 col-xs-12">
-								<div class="item">
-									<div class="footer-logo">
-										<figure class="image-box">
-											<img src="images\logo\logo2.png">
-										</figure>
-										
-									</div>
-									<ul class="working-hour">
-										<li><i class="fa fa-clock-o" aria-hidden="true"></i>Lun - Vier <span>: 8:00am - 6:00pm</span></li>
-										<li>Sab <span>: 8:00am - 1:00pm</span></li>
-									</ul>
-									<ul class="location">
-										<li><i class="fa fa-map-marker" aria-hidden="true"></i>
-                                			Address: <span> Bogotá Calle 6d # 80b 89</span>
-                                		</li>
-									</ul>
-								</div>
-							</div>
-
-
-<!-- Noticias recientes
-							<div class="col-md-3 col-sm-6 col-xs-12">
-								<div class="item">
-									<div class="recent-news">
-										<h3>Noticias recientes</h3>
-
-										<div class="single-news">
-		                                    <figure class="image-holder">
-		                                        <a href="#"><img src="images\resources\footer-rp1.jpg" alt="Images"></a>
-		                                    </figure>
-
-		                                    <div class="text">
-		                                        <h4><a href="#">UK inflation rate falls
-		                                            in October</a>
-		                                        </h4>
-		                                        <p><i class="fa fa-clock-o" aria-hidden="true"></i> May 29, 2017</p>
-		                                    </div>
-		                                </div>
-
-		                                <div class="single-news">
-		                                    <figure class="image-holder">
-		                                        <a href="#"><img src="images\resources\footer-rp2.jpg" alt="Images"></a>
-		                                    </figure>
-
-		                                    <div class="text">
-		                                        <h4><a href="#">Company wins the “Awwards”</a>
-		                                        </h4>
-		                                        <p><i class="fa fa-clock-o" aria-hidden="true"></i>May 29, 2017</p>
-		                                    </div>
-		                                </div>
-
-									</div>
-								</div>
-							</div>
-
--->
-
-							<div class="col-md-3 col-sm-6 col-xs-12">
-								<div class="item">
-									<div class="services">
-										<h3>Servicios</h3>
-
-										<ul class="service-list">
-		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Mantenimiento preventivo</a></li>
-		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Mantenimiento correctivo</a></li>
-		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Venta de equipos</a></li>
-		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Consultorias</a></li>
-		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Instalaciones</a></li>
-		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Hogar</a></li>
-		                                </ul>
-									</div>
-									
-								</div>
-							</div>
-
-							<div class="col-md-3 col-sm-6 col-xs-12">
-								<div class="item">
-									<h3>Newsletter</h3>
-									<div class="newsletter">
-	                                    <input class="form-control" type="text" placeholder="email address.." value="">
-	                                    <button class="" type="submit"><i class="fa fa-location-arrow"></i></button>
-	                                </div>
-	                                <div class="social-icon">
-	                                    <h3>Social Media</h3>
-	                                    <ul class="icon-list">
-	                                        <li><a href="#"><i class="fa fa-facebook " aria-hidden="true"></i></a></li>
-	                                        <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-	                                        <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-	                                        <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-	                                        <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-	                                    </ul>
-	                                </div>
-								</div>
-							</div>
-
-						</div>
-					</div>
-				</div>
-
-				
-			</div>
-			
-		</div>
-
-		<div class="footer-bottom">
-			<div class="container">
-				<p>2017 &copy; Todos los derechos reservados <span>RCV System</span></p>
-	            <ul>
-	                <li><a href="#">Acerca</a></li>
-	                <li><a href="#">Blog</a></li>
-	                <li><a href="contact.htm">Contacto</a></li>
-	            </ul>
-			</div>
-			
-		</div>
-
-
+<?
+  include 'footer.php'; 
+?>
 
 	<!-- Scroll Top Button -->
 	<button class="scroll-top tran3s color2_bg">
