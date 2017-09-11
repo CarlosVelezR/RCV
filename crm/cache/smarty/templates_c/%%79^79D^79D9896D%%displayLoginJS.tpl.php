@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.29, created on 2017-09-10 19:28:22
+<?php /* Smarty version 2.6.29, created on 2017-09-10 21:55:30
          compiled from include/MVC/View/tpls/displayLoginJS.tpl */ ?>
 <?php if ($this->_tpl_vars['MODULE_SUGAR_GRP1']): ?>
     <script type="text/javascript">var module_sugar_grp1 = '<?php echo $this->_tpl_vars['MODULE_SUGAR_GRP1']; ?>

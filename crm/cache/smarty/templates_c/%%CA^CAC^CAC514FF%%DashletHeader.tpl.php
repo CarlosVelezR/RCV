@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.29, created on 2017-09-10 19:28:50
+<?php /* Smarty version 2.6.29, created on 2017-09-10 21:55:38
          compiled from themes/SuiteP/include/Dashlets/DashletHeader.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_getimagepath', 'themes/SuiteP/include/Dashlets/DashletHeader.tpl', 8, false),)), $this); ?>
