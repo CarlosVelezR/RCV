@@ -22,9 +22,6 @@
 <?
   include 'header.php';/* Incluye el header ya creado */
    /* Contenido */
-   <div id="main">
-
-   </div>
   include 'footer.php'; /* Incluye el footer ya creado */
  ?>
 
