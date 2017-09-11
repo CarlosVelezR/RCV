@@ -36,7 +36,7 @@
 									</ul>
 									<ul class="location">
 										<li><i class="fa fa-map-marker" aria-hidden="true"></i>
-                                			Address: <span> Calle 6d # 80b 89</span>
+                                			Dirección: <span> Calle 6d # 80b 89</span>
                                 		</li>
 									</ul>
 								</div>
@@ -95,7 +95,7 @@
 	            <ul>
 	                <li><a href="#">Acerca</a></li>
 	                <li><a href="#">Blog</a></li>
-	                <li><a href="#">Contacto</a></li>
+	                <li><a href="contact.php">Contacto</a></li>
 	            </ul>
 			</div>
 			

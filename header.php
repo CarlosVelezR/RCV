@@ -32,8 +32,6 @@
                         08:00am - 06:00pm (Lun- Vie)</a></li>
                         <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i>sac@rcvsystem.com</a></li>
                     </ul>
-					
-                   
 				</div>
 			</div>
 		</div><!-- Header Top End -->
@@ -66,10 +64,10 @@
 					                    <li class="dropdown"><a href="#">Servicios</a>
 						                    
 					                        <ul>					                        
-												<li><a href="service-single-mantprevent.htm">Mantenimiento preventivo</a></li>
-												<li><a href="service-single-mantcorrect.htm">Mantenimiento correctivo</a></li>
-												<li><a href="service-single-mantcorrect.htm">Instalación de equipos</a></li>
-												<li><a href="service-single-mantcorrect.htm">Refrigeración</a></li>		
+												<li><a href="service-single-mantprevent.php">Mantenimiento preventivo</a></li>
+												<li><a href="service-single-mantcorrect.php">Mantenimiento correctivo</a></li>
+												<li><a href="service-single-mantcorrect.php">Instalación de equipos</a></li>
+												<li><a href="service-single-mantcorrect.php">Refrigeración</a></li>		
 											</ul>	
 					                    </li>
 
@@ -77,7 +75,7 @@
 					                </ul>
 
 					                <ul class="mobile-menu clearfix">
-					                    <li class="current"><a href="index.htm">Inicio</a></li>		                   
+					                    <li class="current"><a href="index.php">Inicio</a></li>		                   
 					                    <li><a href="contact.php">Contacto</a></li>
 
 					                </ul>
