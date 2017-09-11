@@ -62,7 +62,7 @@
 					            <div class="navbar-collapse collapse clearfix">
 					                <ul class="navigation clearfix">
 
-					                    <li class="current"><a href="index.htm">Inicio</a></li>	                  
+					                    <li class="current"><a href="index.php">Inicio</a></li>	                  
 					                    <li class="dropdown"><a href="#">Servicios</a>
 						                    
 					                        <ul>					                        
@@ -78,7 +78,7 @@
 
 					                <ul class="mobile-menu clearfix">
 					                    <li class="current"><a href="index.htm">Inicio</a></li>		                   
-					                    <li><a href="contact.htm">Contacto</a></li>
+					                    <li><a href="contact.php">Contacto</a></li>
 
 					                </ul>
 					            </div>

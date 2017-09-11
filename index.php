@@ -986,9 +986,13 @@
 				</div>
 			</div>
 		</section>
+
+<!--Footer pie de página-->
 <?
   include 'footer.php'; 
 ?>
+
+<!--Fin Footer pie de página-->
 		
 	<!-- Scroll Top Button -->
 	<button class="scroll-top tran3s color2_bg">
