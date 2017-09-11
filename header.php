@@ -70,6 +70,7 @@
 												<li><a href="service-single-mantcorrect.htm">Mantenimiento correctivo</a></li>
 												<li><a href="service-single-mantcorrect.htm">Instalación de equipos</a></li>
 												<li><a href="service-single-mantcorrect.htm">Refrigeración</a></li>
+												<li><a href="service-single-mantcorrect.htm">Test2</a></li>
 											</ul>	
 					                    </li>
 
