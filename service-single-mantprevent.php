@@ -140,9 +140,10 @@
                         </div>
                     </div> 
 				<!--Segunda columna del texto-->
+				<div>
 <p>3. La frecuencia con que se realizaran estas operaciones de mantenimientos será de una intervención seis meses  como mínimo. Estableciéndose la frecuencia necesaria de estas intervenciones por un especialista en dependencia de lo agresivo que sea el ambiente donde se encuentren instalado los sistemas. </p>
 <p>4. <span>RCV. Air system</span>, realizará un análisis y evaluación periódica del rendimiento de los equipos generadores de frío en función de su potencia térmica nominal, midiendo y registrando los valores, de acuerdo con las operaciones y periodicidades. </p>
-
+</div>
 </div>
 
                             
