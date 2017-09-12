@@ -73,8 +73,9 @@
 											<li>- Ajuste de contactos eléctricos de fuerza y control. </li>
 											<li>- Limpieza y ajuste de placa electrónica.</li>
 										</ul>
-								<p>Para evitar el deterioro de los equipos, es aconsejable realizar mantenimiento trimestralmente <br>Nosotros somos lideres y conocemos a fondo la mayor parte de dispositivos de aire acondicionado dando al cliente mayor confiabilidad a la hora de realizar manetenimientos.<br>
-								Tenemos alternativas y grandes descuentos si persiste el servicio de mantenimiento preventivo. Contactanos para mayor información a nuestras líneas de atención</p>
+								<p>Para evitar el deterioro de los equipos, es aconsejable realizar mantenimiento trimestralmente
+								Nosotros somos lideres y conocemos a fondo la mayor parte de dispositivos de aire acondicionado dando al cliente mayor confiabilidad a la hora de realizar manetenimientos.
+								Tenemos alternativas y grandes descuentos si persiste el servicio de mantenimiento preventivo. Contactanos para mayor información a nuestras líneas de atención<p>
 							</div>
                     </div>
 				</div>       
@@ -145,7 +146,7 @@
 							<li>Revisión general del estado de corrosión del equipo, pintura en caso necesario.</li>
 							<li>Cambio de piezas de recambio que por su obsolescencia técnica o desgaste sea necesaria sustituir.</li>
 						</ul>
-							<p>3. La frecuencia con que se realizaran estas operaciones de mantenimientos será de una intervención seis meses  como mínimo. Estableciéndose la frecuencia necesaria de estas intervenciones por un especialista en dependencia de lo agresivo que sea el ambiente donde se encuentren instalado los sistemas.</p><br>
+							<p class="bodytext">3. La frecuencia con que se realizaran estas operaciones de mantenimientos será de una intervención seis meses  como mínimo. Estableciéndose la frecuencia necesaria de estas intervenciones por un especialista en dependencia de lo agresivo que sea el ambiente donde se encuentren instalado los sistemas.</p><br>
 							<p>4.RCV. Air system, realizará un análisis y evaluación periódica del rendimiento de los equipos generadores de frío en función de su potencia térmica nominal, midiendo y registrando los valores, de acuerdo con las operaciones y periodicidades.</p></br>
 						</div>	
                     </div> 
