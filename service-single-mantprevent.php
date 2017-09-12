@@ -45,7 +45,7 @@
         <section class="single-service">
             <div class="container">
                 <div class="img-holder">
-                   <figure><img src="images\gallery\20-1.jpg" alt="Images"></figure>
+                   <figure><img src="images\gallery\20-1.jpg" alt="Images"></figure>  
                 </div>
            
                 <div class="row">
@@ -141,7 +141,7 @@
                     </div>       
                 </div>
             </div>
-            <div align="justify">
+            <div>
             <p>3. La frecuencia con que se realizaran estas operaciones de mantenimientos será de una intervención seis meses  como mínimo. Estableciéndose la frecuencia necesaria de estas intervenciones por un especialista en dependencia de lo agresivo que sea el ambiente donde se encuentren instalado los sistemas. </p>
 <p>4. <span>RCV. Air system</span>, realizará un análisis y evaluación periódica del rendimiento de los equipos generadores de frío en función de su potencia térmica nominal, midiendo y registrando los valores, de acuerdo con las operaciones y periodicidades. </p>
 </div>
@@ -149,7 +149,7 @@
                             
                             <p>Para evitar el deterioro de los equipos, es aconsejable realizar mantenimiento trimestralmente <br>Nosotros somos lideres y conocemos a fondo la mayor parte de dispositivos de aire acondicionado dando al cliente mayor confiabilidad a la hora de realizar manetenimientos.</p>
                             <p>Tenemos alternativas y grandes descuentos si persiste el servicio de mantenimiento preventivo. Contactanos para mayor información a nuestras líneas de atención</p>
-            <di>
+            <div>
         </section>
         <!--/single-project-->
 		
