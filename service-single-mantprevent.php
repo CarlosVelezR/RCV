@@ -149,6 +149,9 @@
 						<div class="bodytext">
 							<p class="bodytext">3. La frecuencia con que se realizaran estas operaciones de mantenimientos será de una intervención seis meses  como mínimo. Estableciéndose la frecuencia necesaria de estas intervenciones por un especialista en dependencia de lo agresivo que sea el ambiente donde se encuentren instalado los sistemas.</p><br>
 							<p>4.RCV. Air system, realizará un análisis y evaluación periódica del rendimiento de los equipos generadores de frío en función de su potencia térmica nominal, midiendo y registrando los valores, de acuerdo con las operaciones y periodicidades.</p></br>
+							<p class="bodytext">
+								La empresa RCV. Air system. Realizará un seguimiento de la evolución del consumo de energía, con el fin de poder detectar posibles desviaciones y tomar las medidas correctivas y oportunas. Esta información se conservará por un plazo de, al menos, de cinco años.
+							</p>
 						<div>
 						</div>	
                     </div> 
