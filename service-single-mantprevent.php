@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -33,8 +33,7 @@
                     <h2>Mantenimiento Preventivo</h2>
                     <p>Preserve los equipos acondicionados de su empresa y/o negocio!</p>
                 </div>
-                <ul class="breadcumb">
-                    
+                <ul class="breadcumb">                    
                     <li><a class="active" href="service-single-mantprevent.php">Mantenimiento Preventivo</a></li>
                 </ul>
             </div>
@@ -61,18 +60,19 @@
 								<ul>
 									<li>1- La instalación térmica dispondrá de un libro registro en el que se recojan las operaciones de mantenimiento y las reparaciones que se produzcan en la instalación.</li><br>
 									<li>2- Se realizaran como mínimo las siguientes operaciones de mantenimiento preventivo:<li><br>
+								</ul>
 										<ul type="circle">
 											<li>- Limpieza y desinfección del intercambiador interno (evaporador).</li>
 											<li>- Limpieza y desinfección del intercambiador externo (condensador). </li>
 											<li>- Limpieza, drenaje, y desinfección del circuito de evacuación de condensados, y desagüe.</li>
 											<li>- Comprobación de estanquidad de refrigerante en tuberías.</li>
 											<li>- Comprobación de estanquidad de aceites de compresores y motores. </li>
-											<li>- Revisión y limpieza de filtros de aire. </li>
-											<li>- Revisión y limpieza de filtros de agua. </li>
-											<li>- Revisión y tarado de elementos de seguridad, </li>
+											<li>- Revisión y limpieza de filtros de aire.</li>
+											<li>- Revisión y limpieza de filtros de agua.</li>
+											<li>- Revisión y tarado de elementos de seguridad,</li>
 											<li>- Ajuste de contactos eléctricos de fuerza y control. </li>
 											<li>- Limpieza y ajuste de placa electrónica.</li>
-										</ul>
+										</ul
 								<p>Para evitar el deterioro de los equipos, es aconsejable realizar mantenimiento trimestralmente
 								Nosotros somos lideres y conocemos a fondo la mayor parte de dispositivos de aire acondicionado dando al cliente mayor confiabilidad a la hora de realizar manetenimientos.
 								Tenemos alternativas y grandes descuentos si persiste el servicio de mantenimiento preventivo. Contactanos para mayor información a nuestras líneas de atención<p>
@@ -181,7 +181,6 @@
 <?
   include 'footer.php'; 
 ?>
-
 	<!-- Scroll Top Button -->
 	<button class="scroll-top tran3s color2_bg">
 		<span class="fa fa-angle-up"></span>
