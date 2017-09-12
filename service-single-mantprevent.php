@@ -145,11 +145,14 @@
 	                        </div>
                         		
                         </div>
-                    </div>       
+                    </div> 
+                                    <!--Segunda columna del texto-->
+                <h2>Segunda columnax</h2>      
                 </div>
-                <!--Segunda columna del texto-->
-                <h2>Segunda columna</h2>
+
             </div>
+                            <!--Segunda columna del texto-->
+                <h2>Segunda columna</h2>
         </section>
         <!--/single-project-->
 		
