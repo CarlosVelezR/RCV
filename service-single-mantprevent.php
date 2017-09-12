@@ -62,16 +62,16 @@
 									<li>1- La instalación térmica dispondrá de un libro registro en el que se recojan las operaciones de mantenimiento y las reparaciones que se produzcan en la instalación.</li>
 									<li>2- Se realizaran como mínimo las siguientes operaciones de mantenimiento preventivo:<li>
 										<ul>
-											<li>Limpieza y desinfección del intercambiador interno (evaporador).</li>
-											<li>Limpieza y desinfección del intercambiador externo (condensador). </li>
-											<li>Limpieza, drenaje, y desinfección del circuito de evacuación de condensados, y desagüe.</li>
-											<li>Comprobación de estanquidad de refrigerante en tuberías.</li>
-											<li>Comprobación de estanquidad de aceites de compresores y motores. </li>
-											<li>Revisión y limpieza de filtros de aire. </li>
-											<li>Revisión y limpieza de filtros de agua. </li>
-											<li>Revisión y tarado de elementos de seguridad, </li>
-											<li>Ajuste de contactos eléctricos de fuerza y control. </li>
-											<li>Limpieza y ajuste de placa electrónica.</li>
+											<li>- Limpieza y desinfección del intercambiador interno (evaporador).</li>
+											<li>- Limpieza y desinfección del intercambiador externo (condensador). </li>
+											<li>- Limpieza, drenaje, y desinfección del circuito de evacuación de condensados, y desagüe.</li>
+											<li>- Comprobación de estanquidad de refrigerante en tuberías.</li>
+											<li>- Comprobación de estanquidad de aceites de compresores y motores. </li>
+											<li>- Revisión y limpieza de filtros de aire. </li>
+											<li>- Revisión y limpieza de filtros de agua. </li>
+											<li>- Revisión y tarado de elementos de seguridad, </li>
+											<li>- Ajuste de contactos eléctricos de fuerza y control. </li>
+											<li>- Limpieza y ajuste de placa electrónica.</li>
 										</ul>
 								<p>Para evitar el deterioro de los equipos, es aconsejable realizar mantenimiento trimestralmente <br>Nosotros somos lideres y conocemos a fondo la mayor parte de dispositivos de aire acondicionado dando al cliente mayor confiabilidad a la hora de realizar manetenimientos.<br>
 								Tenemos alternativas y grandes descuentos si persiste el servicio de mantenimiento preventivo. Contactanos para mayor información a nuestras líneas de atención</p>
