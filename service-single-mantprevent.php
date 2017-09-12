@@ -54,7 +54,7 @@
                         	<div class="sec-title">
                         		<h2>Mantenimiento preventivo</h2>
                         	</div>
-                        	<div align="justify">
+                        	<div align="justify" class="bodytext">
 								<p>Recomendamos que lleve a cabo un mantenimiento periódico del mismo. No solamente porque garantiza su mejor funcionamiento, sino también porque amplia la vida útil del Equipo, mejora las condiciones y optimiza su eficiencia.<br>
 								<h4>Mantenimiento  Preventivo de  Aire Acondicionado.</h4><br>
 								El mantenimiento  de su Aire Acondicionado, requiere  conocimientos técnicos de frigorista y habilidad en el uso de herramientas.   RCV. Air System está para ofrecerle el mejor servicio   Siendo esta información la que te permitirá evaluar  el mantenimiento de su Aire Acondicionado.</p>
@@ -135,6 +135,7 @@
 	                        </div>
                         		
                         </div>
+                        <div class="bodytext" align="justi">
                        				<!--Segunda columna del texto-->
 <p>Ajuste de elementos móviles, revisión de vibraciones y equilibrado de motores, ventiladores o bombas. </p>
 <p>Revisión del estado del aislamiento térmico, reconstrucción en caso necesario. </p>

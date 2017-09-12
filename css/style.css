@@ -3681,3 +3681,12 @@ color: #272727;
     font-size: 14px;
     font-weight: 400;
 }
+/*
+===================================================
+  Nuevos estilos
+===================================================
+*/
+.bodytext{
+font-size: 16px;
+font-family: 'roboto',sans-serif
+}
