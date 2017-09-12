@@ -54,6 +54,34 @@
                         	<div class="sec-title">
                         		<h2>Mantenimiento preventivo</h2>
                         	</div>
+<p>Recomendamos que lleve a cabo un mantenimiento periódico del mismo. No solamente porque garantiza su mejor funcionamiento, sino también porque amplia la vida útil del Equipo, mejora las condiciones y optimiza su eficiencia.</p>
+
+<h3>Mantenimiento  Preventivo de  Aire Acondicionado.</h3>
+
+<p>El mantenimiento  de su Aire Acondicionado, requiere  conocimientos técnicos de frigorista y habilidad en el uso de herramientas.   RCV. Air System está para ofrecerle el mejor servicio   Siendo esta información la que te permitirá evaluar  el mantenimiento de su Aire Acondicionado.</p>
+<p>1- La instalación térmica dispondrá de un libro registro en el que se recojan las operaciones de mantenimiento y las reparaciones que se produzcan en la instalación.</p>
+<p>2- Se realizaran como mínimo las siguientes operaciones de mantenimiento preventivo:</p>
+<p>Limpieza y desinfección del intercambiador interno (evaporador). </p>
+<p>Limpieza y desinfección del intercambiador externo (condensador). </p>
+<p>Limpieza, drenaje, y desinfección del circuito de evacuación de condensados, y desagüe.</p>
+<p>Comprobación de estanquidad de refrigerante en tuberías </p>
+<p>Comprobación de estanquidad de aceites de compresores y motores. </p>
+<p>Revisión y limpieza de filtros de aire. </p>
+<p>Revisión y limpieza de filtros de agua. </p>
+<p>Revisión y tarado de elementos de seguridad, </p>
+<p>Ajuste de contactos eléctricos de fuerza y control. </p>
+<p>Limpieza y ajuste de placa electrónica </p>
+<p>Ajuste de elementos móviles, revisión de vibraciones y equilibrado de motores, ventiladores o bombas. </p>
+<p>Revisión del estado del aislamiento térmico, reconstrucción en caso necesario. </p>
+<p>Revisión del sistema de control automático, y mando a distancia, cambio de baterías en caso necesario. </p>
+<p>Limpieza y revisión de sistema de distribución de Aire. </p>
+<p>Revisión general del estado de corrosión del equipo, pintura en caso necesario. </p>
+<p>Cambio de piezas de recambio que por su obsolescencia técnica o desgaste sea necesaria sustituir. </p>
+<p>3. La frecuencia con que se realizaran estas operaciones de mantenimientos será de una intervención seis meses  como mínimo. Estableciéndose la frecuencia necesaria de estas intervenciones por un especialista en dependencia de lo agresivo que sea el ambiente donde se encuentren instalado los sistemas. </p>
+<p>4. <span>RCV. Air system</span>, realizará un análisis y evaluación periódica del rendimiento de los equipos generadores de frío en función de su potencia térmica nominal, midiendo y registrando los valores, de acuerdo con las operaciones y periodicidades. </p>
+
+
+
                             
                             <p>Para evitar el deterioro de los equipos, es aconsejable realizar mantenimiento trimestralmente <br>Nosotros somos lideres y conocemos a fondo la mayor parte de dispositivos de aire acondicionado dando al cliente mayor confiabilidad a la hora de realizar manetenimientos.</p>
                             <p>Tenemos alternativas y grandes descuentos si persiste el servicio de mantenimiento preventivo. Contactanos para mayor información a nuestras líneas de atención</p>
