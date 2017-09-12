@@ -55,32 +55,29 @@
                         		<h2>Mantenimiento preventivo</h2>
                         	</div>
                         	<div align="justify">
-<p>Recomendamos que lleve a cabo un mantenimiento periódico del mismo. No solamente porque garantiza su mejor funcionamiento, sino también porque amplia la vida útil del Equipo, mejora las condiciones y optimiza su eficiencia.</p>
-
-<h3>Mantenimiento  Preventivo de  Aire Acondicionado.</h3>
-
-<p>El mantenimiento  de su Aire Acondicionado, requiere  conocimientos técnicos de frigorista y habilidad en el uso de herramientas.   RCV. Air System está para ofrecerle el mejor servicio   Siendo esta información la que te permitirá evaluar  el mantenimiento de su Aire Acondicionado.</p>
-<p>1- La instalación térmica dispondrá de un libro registro en el que se recojan las operaciones de mantenimiento y las reparaciones que se produzcan en la instalación.</p>
-<p>2- Se realizaran como mínimo las siguientes operaciones de mantenimiento preventivo:</p>
-<p>Limpieza y desinfección del intercambiador interno (evaporador). </p>
-<p>Limpieza y desinfección del intercambiador externo (condensador). </p>
-<p>Limpieza, drenaje, y desinfección del circuito de evacuación de condensados, y desagüe.</p>
-<p>Comprobación de estanquidad de refrigerante en tuberías </p>
-<p>Comprobación de estanquidad de aceites de compresores y motores. </p>
-<p>Revisión y limpieza de filtros de aire. </p>
-<p>Revisión y limpieza de filtros de agua. </p>
-<p>Revisión y tarado de elementos de seguridad, </p>
-<p>Ajuste de contactos eléctricos de fuerza y control. </p>
-<p>Limpieza y ajuste de placa electrónica </p>
-
-
-</div>
-
-                            
-                            <p>Para evitar el deterioro de los equipos, es aconsejable realizar mantenimiento trimestralmente <br>Nosotros somos lideres y conocemos a fondo la mayor parte de dispositivos de aire acondicionado dando al cliente mayor confiabilidad a la hora de realizar manetenimientos.</p>
-                            <p>Tenemos alternativas y grandes descuentos si persiste el servicio de mantenimiento preventivo. Contactanos para mayor información a nuestras líneas de atención</p>
-                        </div>
-                    </div>       
+								<p>Recomendamos que lleve a cabo un mantenimiento periódico del mismo. No solamente porque garantiza su mejor funcionamiento, sino también porque amplia la vida útil del Equipo, mejora las condiciones y optimiza su eficiencia.
+								<h4>Mantenimiento  Preventivo de  Aire Acondicionado.</h4>
+								El mantenimiento  de su Aire Acondicionado, requiere  conocimientos técnicos de frigorista y habilidad en el uso de herramientas.   RCV. Air System está para ofrecerle el mejor servicio   Siendo esta información la que te permitirá evaluar  el mantenimiento de su Aire Acondicionado.</p>
+								<ul>
+									<li>1- La instalación térmica dispondrá de un libro registro en el que se recojan las operaciones de mantenimiento y las reparaciones que se produzcan en la instalación.</li>
+									<li>2- Se realizaran como mínimo las siguientes operaciones de mantenimiento preventivo:<li>
+										<ul>
+											<li>Limpieza y desinfección del intercambiador interno (evaporador).</li>
+											<li>Limpieza y desinfección del intercambiador externo (condensador). </li>
+											<li>Limpieza, drenaje, y desinfección del circuito de evacuación de condensados, y desagüe.</li>
+											<li>Comprobación de estanquidad de refrigerante en tuberías.</li>
+											<li>Comprobación de estanquidad de aceites de compresores y motores. </li>
+											<li>Revisión y limpieza de filtros de aire. </li>
+											<li>Revisión y limpieza de filtros de agua. </li>
+											<li>Revisión y tarado de elementos de seguridad, </li>
+											<li>Ajuste de contactos eléctricos de fuerza y control. </li>
+											<li>Limpieza y ajuste de placa electrónica.</li>
+										</ul>
+								<p>Para evitar el deterioro de los equipos, es aconsejable realizar mantenimiento trimestralmente <br>Nosotros somos lideres y conocemos a fondo la mayor parte de dispositivos de aire acondicionado dando al cliente mayor confiabilidad a la hora de realizar manetenimientos.<br>
+								Tenemos alternativas y grandes descuentos si persiste el servicio de mantenimiento preventivo. Contactanos para mayor información a nuestras líneas de atención</p>
+							</div>
+                    </div>
+				</div>       
                     <div class="col-md-6 col-sm-12">
                         <div class="row">
                         	<div class="related-service">
@@ -138,7 +135,6 @@
 	                        </div>
                         		
                         </div>
-
                        				<!--Segunda columna del texto-->
 <p>Ajuste de elementos móviles, revisión de vibraciones y equilibrado de motores, ventiladores o bombas. </p>
 <p>Revisión del estado del aislamiento térmico, reconstrucción en caso necesario. </p>
