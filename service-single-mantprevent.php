@@ -45,7 +45,7 @@
         <section class="single-service">
             <div class="container">
                 <div class="img-holder">
-                   <figure><img src="images\gallery\20.jpg" alt="Images"></figure>  
+                   <figure><img src="images\gallery\20-1.jpg" alt="Images"></figure>  
                 </div>
            
                 <div class="row">
