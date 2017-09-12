@@ -66,13 +66,13 @@
 											<li>- Limpieza y desinfección del intercambiador externo (condensador). </li>
 											<li>- Limpieza, drenaje, y desinfección del circuito de evacuación de condensados, y desagüe.</li>
 											<li>- Comprobación de estanquidad de refrigerante en tuberías.</li>
-											<li>- Comprobación de estanquidad de aceites de compresores y motores. </li>
+											<li>- Comprobación de estanquidad de aceites de compresores y motores.</li>
 											<li>- Revisión y limpieza de filtros de aire.</li>
 											<li>- Revisión y limpieza de filtros de agua.</li>
 											<li>- Revisión y tarado de elementos de seguridad,</li>
 											<li>- Ajuste de contactos eléctricos de fuerza y control. </li>
 											<li>- Limpieza y ajuste de placa electrónica.</li>
-										</ul
+										</ul>
 								<p>Para evitar el deterioro de los equipos, es aconsejable realizar mantenimiento trimestralmente
 								Nosotros somos lideres y conocemos a fondo la mayor parte de dispositivos de aire acondicionado dando al cliente mayor confiabilidad a la hora de realizar manetenimientos.
 								Tenemos alternativas y grandes descuentos si persiste el servicio de mantenimiento preventivo. Contactanos para mayor información a nuestras líneas de atención<p>
@@ -92,10 +92,8 @@
 											<div class="overlay">
 												<div class="inner">
 													<div class="social">
-														<a href="service-single-mantcorrect.php"><i class="flaticon-nature-6"></i></a>	
-														
-													</div>
-													
+														<a href="service-single-mantcorrect.php"><i class="flaticon-nature-6"></i></a>			
+													</div>													
 												</div>
 											</div>
 										</div>
@@ -116,8 +114,7 @@
 											<div class="overlay">
 												<div class="inner">
 													<div class="social">
-														<a href="service-single-mantcorrect.php"><i class="flaticon-nature-6"></i></a>	
-														
+														<a href="service-single-mantcorrect.php"><i class="flaticon-nature-6"></i></a>											
 													</div>
 													
 												</div>
