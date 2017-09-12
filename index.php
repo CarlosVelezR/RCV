@@ -18,80 +18,14 @@
 </head>
 
 <body>
-	<div class="boxed_wrapper">
-		<!-- Header Top start -->
-		<div class="header-top">
-			<div class="container clearfix">
-				<!--Top Left-->
-				<div class="top-left pull-left">
-					<p>Bienvenido <span>RCV System</span></p>
-				</div>
-                <!--Top Right-->
-				<div class="top-right pull-right">
-                    <ul class="list">
-                        <li><a href="#"><i class="fa fa-clock-o" aria-hidden="true"></i>
-                        08:00am - 06:00pm (Lun- Vie)</a></li>
-                        <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i>sac@rcvsystem.com</a></li>
-                    </ul>
-					
-                   
-				</div>
-			</div>
-		</div><!-- Header Top End -->
 
-			<!--Menu de navegación -->
+<!-- Master Page Header -->
 
-			<section class="mainmenu-area stricky">
-			    <div class="container">
-			    	<div class="row">
-			    		<div class="col-md-4">
-							<div class="main-logo">
-								<a href="index-1.htm"><img src="images\logo\logo.png" alt=""></a>
-							</div>
-						</div>
-						
-						<div class="col-md-6 menu-column">
-							<nav class="main-menu">
-					            <div class="navbar-header">     
-					                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-					                    <span class="icon-bar"></span>
-					                    <span class="icon-bar"></span>
-					                    <span class="icon-bar"></span>
-					                    <span class="icon-bar"></span>
-					                </button>
-					            </div>
-					            <div class="navbar-collapse collapse clearfix">
-					                <ul class="navigation clearfix">
+<?
+  include 'header.php';
+ ?>
 
-					                    <li class="current"><a href="index.htm">Inicio</a></li>	                  
-					                    <li class="dropdown"><a href="#">Servicios</a>
-						                    
-					                        <ul>					                        
-												<li><a href="service-single-mantprevent.htm">Mantenimiento preventivo</a></li>
-												<li><a href="service-single-mantcorrect.htm">Mantenimiento correctivo</a></li>
-												<li><a href="service-single-mantcorrect.htm">Instalación de equipos</a></li>
-												<li><a href="service-single-mantcorrect.htm">Refrigeración</a></li>
-											</ul>	
-					                    </li>
-
-					                    <li><a href="contact.htm">Contacto</a></li>
-					                </ul>
-
-					                <ul class="mobile-menu clearfix">
-					                    <li class="current"><a href="index.htm">Inicio</a></li>		                   
-					                    <li><a href="contact.htm">Contacto</a></li>
-
-					                </ul>
-					            </div>
-					        </nav>
-						</div>											
-			    	</div>
-			        
-			    </div>
-			</section>
-
-	<!--Fin de menú navegación -->
-
+ <!-- Fin Master Page Header -->
 
 		<!--Start rev slider wrapper-->
 
@@ -130,7 +64,7 @@
 						<div class="tp-caption tp-resizeme" data-x="left" data-hoffset="10" data-y="top" data-voffset="450" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-start="2300">
 							<div class="slide-content-box">
 								<div class="button">
-									<a class="thm-btn yellow-bg" href="contact.htm">Contactenos</a>     
+									<a class="thm-btn yellow-bg" href="contact.php">Contactenos</a>     
 								</div>
 							</div>
 						</div>
@@ -158,7 +92,7 @@
 						<div class="tp-caption tp-resizeme" data-x="left" data-hoffset="10" data-y="top" data-voffset="450" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-start="2300">
 							<div class="slide-content-box">
 								<div class="button">
-									<a class="thm-btn yellow-bg" href="contact.htm">contact us</a>     
+									<a class="thm-btn yellow-bg" href="contact.php">contact us</a>     
 								</div>
 							</div>
 						</div>
@@ -185,7 +119,7 @@
 						<div class="tp-caption tp-resizeme" data-x="left" data-hoffset="10" data-y="top" data-voffset="450" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-start="2300">
 							<div class="slide-content-box">
 								<div class="button">
-									<a class="thm-btn yellow-bg" href="contact.htm">contact us</a>     
+									<a class="thm-btn yellow-bg" href="contact.php">contact us</a>     
 								</div>
 							</div>
 						</div>
@@ -215,7 +149,7 @@
                                 <i class="icon flaticon-nature-4"></i>
                             </div>
                             <div class="content-box">
-                                <h4><a href="service-single-mantprevent.htm">Mantenimiento Preventivo</a></h4>
+                                <h4><a href="service-single-mantprevent.php">Mantenimiento Preventivo</a></h4>
                                
                             </div>
                         </div>
@@ -234,7 +168,7 @@
                                 <i class="flaticon-watering-can"></i>
                             </div>
                             <div class="content-box">
-                                <h4><a href="service-single-mantcorrect.htm">Mantenimiento Correctivo</a></h4>
+                                <h4><a href="service-single-mantcorrect.php">Mantenimiento Correctivo</a></h4>
                                
                             </div>
                         </div>
@@ -369,7 +303,7 @@
 									<div class="overlay">
 										<div class="inner">
 											<div class="social">
-												<a href="service-single.htm"><i class="flaticon-nature-6"></i></a>	
+												<a href="service-single.php"><i class="flaticon-nature-6"></i></a>	
 												
 											</div>
 											
@@ -377,7 +311,7 @@
 									</div>
 								</div>
 								<div class="text">
-                                    <h4><a href="service-single.htm">Sistema Eléctrico</a></h4>
+                                    <h4><a href="service-single.php">Sistema Eléctrico</a></h4>
                                     <p>Medición de voltajes de entrada y salida y consumo de amperaje, Revisión y ajuste de terminales.</p>
                                     <div class="link-btn">
                                         <a href="#">Ver servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
@@ -401,7 +335,7 @@
 									</div>
 								</div>
 								<div class="text">
-                                    <h4><a href="service-single.htm">Carga De Refrigerante</a></h4>
+                                    <h4><a href="service-single.php">Carga De Refrigerante</a></h4>
                                     <p>Realizamos la carga por peso  de refrigerante de acuerdo a la capacidad del equipo.</p>
                                     <div class="link-btn">
                                         <a href="#">Ver servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
@@ -424,7 +358,7 @@
 									</div>
 								</div>
 								<div class="text">
-                                    <h4><a href="service-single.htm">Toma De Presiones</a></h4>
+                                    <h4><a href="service-single.php">Toma De Presiones</a></h4>
                                     <p>Toma de presión por baja y alta para determinar fugas en el sistema.</p>
                                     <div class="link-btn">
                                         <a href="#">Ver Servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a> 
@@ -447,7 +381,7 @@
 									</div>
 								</div>
 								<div class="text">
-                                    <h4><a href="service-single.htm">Protecciones Eléctricas</a></h4>
+                                    <h4><a href="service-single.php">Protecciones Eléctricas</a></h4>
                                     <p>Realizamos instalaciones independientes con protección para evitar daños.</p>
                                     <div class="link-btn">
                                         <a href="#">Ver Servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
@@ -470,7 +404,7 @@
 									</div>
 								</div>
 								<div class="text">
-                                    <h4><a href="service-single.htm">Mantenimiento Split</a></h4>
+                                    <h4><a href="service-single.php">Mantenimiento Split</a></h4>
                                     <p>Limpieza interna y externa de manejadora, condensadora, y lavado de serpentín.</p>
                                     <div class="link-btn">
                                         <a href="#">Ver Servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
@@ -672,7 +606,7 @@
                                         <a href="#"><i class="flaticon-nature-5"></i></a>
                                     </div>
                                 </div>
-                                <h4><a href="single-project.htm">Congeladores</a></h4>
+                                <h4><a href="single-project.php">Congeladores</a></h4>
                                 
                             </div>
                             
@@ -812,7 +746,7 @@
                     </div>
                     <div class="col-md-3">
 
-                        <a href="contact.htm" class="thm-btn inverse pull-right">Contactanos</a>
+                        <a href="contact.php" class="thm-btn inverse pull-right">Contactanos</a>
                     </div>
                 </div>
             </div>
@@ -1007,7 +941,7 @@
 	                                    <li><i class="fa fa-comments" aria-hidden="true"></i>4 Comments</li>
 	                                </ul>
 
-	                                <h4><a href="blog-details.htm">Condensadora LG </a></h4>
+	                                <h4><a href="blog-details.php">Condensadora LG </a></h4>
                                 	<p>Rcv Air System líder en la distribución unidad condensadora, es una empresa con más de 4 años en el mercado. Somos el distribuidor mayorista Carrier con el primer lugar en ventas a nivel nacional.</p>
 								</div>
 							</div>
@@ -1052,93 +986,13 @@
 				</div>
 			</div>
 		</section>
-	
-	<!-- Inicio del footer -->
-		<div class="footer">
-			<div class="container">
-				<div class="footer-upper">
-					<div class="item-list">
-						<div class="row">
-							<div class="col-md-3 col-sm-6 col-xs-12">
-								<div class="item">
-									<div class="footer-logo">
-										<figure class="image-box">
-											<img src="images\logo\logo2.png">
-										</figure>
-										
-									</div>
-									<ul class="working-hour">
-										<li><i class="fa fa-clock-o" aria-hidden="true"></i>Lunes - Viernes <span>: 8:00am - 6:00pm</span></li>
-										<li>Sabados <span>: 8:00am - 1:00pm</span></li>
-									</ul>
-									<ul class="location">
-										<li><i class="fa fa-map-marker" aria-hidden="true"></i>
-                                			Address: <span> Calle 6d # 80b 89</span>
-                                		</li>
-									</ul>
-								</div>
-							</div>						
 
-							<div class="col-md-3 col-sm-6 col-xs-12">
-								<div class="item">
-									<div class="services">
-										<h3>Servicios</h3>
+<!--Footer pie de página-->
+<?
+  include 'footer.php'; 
+?>
 
-										<ul class="service-list">
-		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Mantenimiento preventivo</a></li>
-		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Mantenimiento correctivo</a></li>
-		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Venta de equipos</a></li>
-		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Consultorias</a></li>
-		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Instalaciones</a></li>
-		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Hogar</a></li>
-		                                </ul>
-									</div>
-									
-								</div>
-							</div>
-
-							<div class="col-md-3 col-sm-6 col-xs-12">
-								<div class="item">
-									<h3>Boletin</h3>
-									<div class="newsletter">
-	                                    <input class="form-control" type="text" placeholder="Correo electrónico.." value="">
-	                                    <button class="" type="submit"><i class="fa fa-location-arrow"></i></button>
-	                                </div>
-	                                <div class="social-icon">
-	                                    <h3>Redes Sociales</h3>
-	                                    <ul class="icon-list">
-	                                        <li><a href="#"><i class="fa fa-facebook " aria-hidden="true"></i></a></li>
-	                                        <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-	                                        <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-	                                        <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-	                                        <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-	                                    </ul>
-	                                </div>
-								</div>
-							</div>
-
-						</div>
-					</div>
-				</div>
-
-				
-			</div>
-			
-		</div>
-
-		<div class="footer-bottom">
-			<div class="container">
-				<p>2017 &copy; Todos los derechos reservados <span>RCV System</span></p>
-	            <ul>
-	                <li><a href="#">Acerca</a></li>
-	                <li><a href="#">Blog</a></li>
-	                <li><a href="#">Contacto</a></li>
-	            </ul>
-			</div>
-			
-		</div>
-
-		<!-- Fin del footer -->	
+<!--Fin Footer pie de página-->
 		
 	<!-- Scroll Top Button -->
 	<button class="scroll-top tran3s color2_bg">
