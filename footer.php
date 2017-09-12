@@ -48,8 +48,8 @@
 										<h3>Servicios</h3>
 
 										<ul class="service-list">
-		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Mantenimiento preventivo</a></li>
-		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Mantenimiento correctivo</a></li>
+		                                    <li><a href="service-single-mantprevent.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Mantenimiento preventivo</a></li>
+		                                    <li><a href="service-single-mantcorrect.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Mantenimiento correctivo</a></li>
 		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Venta de equipos</a></li>
 		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Consultorias</a></li>
 		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Instalaciones</a></li>
