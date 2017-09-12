@@ -135,16 +135,19 @@
 	                        </div>
                         		
                         </div>
-                        <div class="bodytext" align="justi">
-                       				<!--Segunda columna del texto-->
-<p>Ajuste de elementos móviles, revisión de vibraciones y equilibrado de motores, ventiladores o bombas. </p>
-<p>Revisión del estado del aislamiento térmico, reconstrucción en caso necesario. </p>
-<p>Revisión del sistema de control automático, y mando a distancia, cambio de baterías en caso necesario. </p>
-<p>Limpieza y revisión de sistema de distribución de Aire. </p>
-<p>Revisión general del estado de corrosión del equipo, pintura en caso necesario. </p>
-<p>Cambio de piezas de recambio que por su obsolescencia técnica o desgaste sea necesaria sustituir. </p>
-<p>3. La frecuencia con que se realizaran estas operaciones de mantenimientos será de una intervención seis meses  como mínimo. Estableciéndose la frecuencia necesaria de estas intervenciones por un especialista en dependencia de lo agresivo que sea el ambiente donde se encuentren instalado los sistemas. </p>
-<p>4. <span>RCV. Air system</span>, realizará un análisis y evaluación periódica del rendimiento de los equipos generadores de frío en función de su potencia térmica nominal, midiendo y registrando los valores, de acuerdo con las operaciones y periodicidades. </p>
+                        <!--Segunda columna del texto-->
+						<div class="bodytext" align="justify">
+						<ul>
+							<li>Ajuste de elementos móviles, revisión de vibraciones y equilibrado de motores, ventiladores o bombas.</li>
+							<li>Revisión del estado del aislamiento térmico, reconstrucción en caso necesario.</li>
+							<li>Revisión del sistema de control automático, y mando a distancia, cambio de baterías en caso necesario. </li>
+							<li>Limpieza y revisión de sistema de distribución de Aire.</li>
+							<li>Revisión general del estado de corrosión del equipo, pintura en caso necesario.</li>
+							<li>Cambio de piezas de recambio que por su obsolescencia técnica o desgaste sea necesaria sustituir.</li>
+						</ul>
+							<p>3. La frecuencia con que se realizaran estas operaciones de mantenimientos será de una intervención seis meses  como mínimo. Estableciéndose la frecuencia necesaria de estas intervenciones por un especialista en dependencia de lo agresivo que sea el ambiente donde se encuentren instalado los sistemas.</p><br>
+							<p>4.RCV. Air system, realizará un análisis y evaluación periódica del rendimiento de los equipos generadores de frío en función de su potencia térmica nominal, midiendo y registrando los valores, de acuerdo con las operaciones y periodicidades.</p></br>
+						</div>	
                     </div> 
     
                 </div>
@@ -152,7 +155,7 @@
             </div>
         </section>
         <!--/single-project-->
-		
+
 		<!--subscribe-us section-->
         <section class="subscribe-us">
             <div class="container">
