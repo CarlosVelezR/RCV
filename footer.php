@@ -79,14 +79,10 @@
 	                                </div>
 								</div>
 							</div>
-
 						</div>
 					</div>
-				</div>
-
-				
-			</div>
-			
+				</div>				
+			</div>			
 		</div>
 
 		<div class="footer-bottom">

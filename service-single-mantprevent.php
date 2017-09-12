@@ -22,7 +22,7 @@
 
 <?
   include 'header.php';
- ?>
+?>
 
  <!-- Fin Master Page Header -->
 
@@ -62,7 +62,7 @@
 									<li>2- Se realizaran como mínimo las siguientes operaciones de mantenimiento preventivo:<li><br>
 								</ul>
 										<ul type="circle">
-											<li>- Limpieza y desinfección del intercambiador interno (evaporador).</li>
+											<li><b>- Limpieza y desinfección del intercambiador interno (evaporador).</b></li>
 											<li>- Limpieza y desinfección del intercambiador externo (condensador). </li>
 											<li>- Limpieza, drenaje, y desinfección del circuito de evacuación de condensados, y desagüe.</li>
 											<li>- Comprobación de estanquidad de refrigerante en tuberías.</li>
