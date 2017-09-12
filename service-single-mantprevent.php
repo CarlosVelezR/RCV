@@ -147,6 +147,8 @@
                         </div>
                     </div>       
                 </div>
+                <!--Segunda columna del texto-->
+                <h2>Segunda columna</h2>
             </div>
         </section>
         <!--/single-project-->
