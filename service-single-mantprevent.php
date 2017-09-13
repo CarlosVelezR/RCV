@@ -21,7 +21,7 @@
 	<!-- Master Page Header -->
 
 <?
-  include 'header.php';
+include 'header.php';
 ?>
 
  <!-- Fin Master Page Header -->
@@ -53,7 +53,8 @@
                         	<div class="sec-title">
                         		<h2>Mantenimiento preventivo</h2>
                         	</div>
-                        	<div class="bodytext" lign="justify">
+						
+                        	<div class="bodytext>
 								<p>Recomendamos que lleve a cabo un mantenimiento periódico del mismo. No solamente porque garantiza su mejor funcionamiento, sino también porque amplia la vida útil del Equipo, mejora las condiciones y optimiza su eficiencia.<br>
 								<h4>Mantenimiento  Preventivo de  Aire Acondicionado.</h4><br>
 								El mantenimiento  de su Aire Acondicionado, requiere  conocimientos técnicos de frigorista y habilidad en el uso de herramientas.   RCV. Air System está para ofrecerle el mejor servicio   Siendo esta información la que te permitirá evaluar  el mantenimiento de su Aire Acondicionado.</p>
@@ -152,9 +153,7 @@
 						<div>
 						</div>	
                     </div> 
-    
-                </div>
-
+                    </div>
             </div>
         </section>
         <!--/single-project-->
@@ -176,7 +175,7 @@
         </section>
 
 <?
-  include 'footer.php'; 
+include 'footer.php'; 
 ?>
 	<!-- Scroll Top Button -->
 	<button class="scroll-top tran3s color2_bg">
