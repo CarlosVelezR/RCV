@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -21,7 +21,7 @@
 
 <?
   include 'header.php';
- ?>
+?>
 
  <!-- Fin Master Page Header -->
 
@@ -43,8 +43,8 @@
 
 		<section class="contact_us">
 			<div class="container">   
-                <div class="sec-title text-center title">
-                    <h2>Contactenos<span></span></h2>
+                <div class="ContactTitle">
+                    <h2>Contáctenos</h2>
                 </div>
                 <div class="default-form-area">
 					<form id="contact-form" name="contact_form" class="default-form" action="sendmail.php" method="post">

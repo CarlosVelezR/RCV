@@ -772,7 +772,7 @@
                                             </div>
                                             <div class="choose-text">
                                                 <h4><a href="#">Amigables</a></h4>
-                                                <p>Realizamos buenas costumbres para cuidar el planeta.</p>
+                                                <p>Realizamos buenas prácticas para cuidar el planeta.</p>
                                             </div>
                                         </div>
                                     </div>

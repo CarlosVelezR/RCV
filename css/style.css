@@ -3690,3 +3690,10 @@ color: #272727;
 font-size: 16px;
 font-family: 'roboto',sans-serif
 }
+.ContactTitle {
+color:white;
+font-size: 22px;
+font-family:'roboto', sans-serif;
+text-align: center;
+margin-bottom: 25px;
+}
