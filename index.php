@@ -501,10 +501,10 @@
                         <span>Todos</span>
                     </li>
                     <li data-filter=".Gardening">
-                        <span>Regrigeradores </span>
+                        <span>Refrigeradores </span>
                     </li>
                     <li data-filter=".Lawn">
-                        <span>Condensadoras</span>
+                        <span>Condensadoras</span>	
                     </li>
                     <li data-filter=".Cleaning">
                         <span>Neveras </span>
@@ -742,7 +742,7 @@
                 <div class="row">   
                     <div class="col-md-9">
                         <h3>Haz de tu empresa un lugar comodo para tus trabajadores!</h3>
-                        <p>Our Landscaping company is a full-service firm. Our own employee work on all of designing. </p>
+                        <p>Nuestra empresa cuenta con programas de responsabilidad social empresarial para conservar el medio ambiente</p>
                     </div>
                     <div class="col-md-3">
 
