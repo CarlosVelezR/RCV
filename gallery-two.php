@@ -1,0 +1,452 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>RCV System</title>
+
+	<!-- mobile responsive meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="stylesheet" href="css\style.css">
+	<link rel="stylesheet" href="css\responsive.css">
+	<link rel="stylesheet" href="fonts\flaticon.css">
+	<!--favicon-->
+	<link rel="apple-touch-icon" sizes="180x180" href="images\favicon\apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="images\favicon\favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="images\favicon\favicon-16x16.png" sizes="16x16">
+
+</head>
+<body>
+	<div class="boxed_wrapper">
+
+		<!-- Header Top start -->
+        <div class="header-top">
+            <div class="container clearfix">
+                <!--Top Left-->
+                <div class="top-left pull-left">
+                    <p>Bienvenido <span>RCV System!</span></p>
+                </div>
+                <!--Top Right-->
+                <div class="top-right pull-right">
+					<ul class="list">
+						<li><a href="#"><i class="fa fa-clock-o" aria-hidden="true"></i>
+                        11am - 05pm (Sat- Tue)</a></li>
+                        <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i>sac@rcvsystem.com</a></li>
+					</ul>
+                    
+                   
+                </div>
+            </div>
+        </div><!-- Header Top End -->
+		
+		<!--Menu de navegación -->
+
+			<section class="mainmenu-area stricky">
+			    <div class="container">
+			    	<div class="row">
+			    		<div class="col-md-4">
+							<div class="main-logo">
+								<a href="index-1.htm"><img src="images\logo\logo.png" alt=""></a>
+							</div>
+						</div>
+						
+						<div class="col-md-6 menu-column">
+							<nav class="main-menu">
+					            <div class="navbar-header">     
+					                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					                    <span class="icon-bar"></span>
+					                    <span class="icon-bar"></span>
+					                    <span class="icon-bar"></span>
+					                    <span class="icon-bar"></span>
+					                </button>
+					            </div>
+					            <div class="navbar-collapse collapse clearfix">
+					                <ul class="navigation clearfix">
+
+					                    <li class="current"><a href="index.htm">Inicio</a></li>	                  
+					                    <li class="dropdown"><a href="#">Servicios</a>
+						                    
+					                        <ul>					                        
+												<li><a href="service-single-mantprevent.htm">Mantenimiento preventivo</a></li>
+												<li><a href="service-single-mantcorrect.htm">Mantenimiento correctivo</a></li>
+												<li><a href="service-single-mantcorrect.htm">Instalación de equipos</a></li>
+												<li><a href="service-single-mantcorrect.htm">Refrigeración</a></li>
+											</ul>	
+					                    </li>
+
+					                    <li><a href="contact.htm">Contacto</a></li>
+					                </ul>
+
+					                <ul class="mobile-menu clearfix">
+					                    <li class="current"><a href="index.htm">Inicio</a></li>		                   
+					                    <li><a href="contact.htm">Contacto</a></li>
+
+					                </ul>
+					            </div>
+					        </nav>
+						</div>
+
+						
+						
+			    	</div>
+			        
+			    </div>
+			</section>
+
+	<!--Fin de menú navegación -->
+
+		 <!--Start page-banner-->
+        <section class="page-banner" style="background-image:url(images/resources/banner.jpg);">
+            <div class="container">
+                <div class="content">
+                    <h2>Nuestros productos</h2>
+                    <p>Haz de tu empresa un lugar comodo para tus colaboradores!</p>
+                </div>
+                <ul class="breadcumb">
+                    <li><a href="index-1.htm">Home</a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
+                    <li><a class="active" href="gallery-two.htm">Nuestros productos</a></li>
+                </ul>
+            </div>
+        </section>
+        <!--End page-banner-->
+
+		<section class="gallery-two text-center">
+			<div class="container">            
+				<ul class="post-filter list-inline">
+					<li class="active" data-filter=".filter-item">
+						<span>Todos</span>
+					</li>
+					<li data-filter=".Refrigeracion">
+						<span>Refrigeracion</span>
+					</li>
+					<li data-filter=".acondicionado">
+						<span>Aire acondicionado</span>
+					</li>
+					<li data-filter=".calefaccion">
+						<span>Calefacción</span>
+					</li>
+					<li data-filter=".Watering">
+						<span>Watering</span>
+					</li>
+				</ul>
+
+				<div class="row masonary-layout filter-layout">
+					<div class="col-md-6 col-sm-6 col-xs-12 filter-item">
+						<div class="single-item">
+							<div class="img-box">
+								<figure><img src="images\gallery\g13.jpg" alt="Awesome Image"></figure>
+								
+								<div class="overlay">
+									<div class="inner">
+										<div class="social">
+											<a href="images\gallery\g13.jpg" data-fancybox-group="example-gallery" class="view lightbox-image"><i class="flaticon-add"></i></a>	
+											
+										</div>
+										
+									</div>
+								</div>
+								
+							</div>
+							
+						</div>
+					</div>
+
+					<div class="col-md-6 col-sm-6 col-xs-12 filter-item Gardening Cleaning">
+						<div class="single-item">
+							<div class="img-box">
+								<figure><img src="images\gallery\g14.jpg" alt="Awesome Image"></figure>
+								
+								<div class="overlay">
+									<div class="inner">
+										<div class="social">
+											<a href="images\gallery\g14.jpg" data-fancybox-group="example-gallery" class="view lightbox-image"><i class="flaticon-add"></i></a>	
+											
+										</div>
+										
+									</div>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+					<div class="col-md-6 col-sm-6 col-xs-12 filter-item Aire acondicionado">
+						<div class="single-item">
+							<div class="img-box">
+								<figure><img src="images\gallery\g15.jpg" alt="Awesome Image"></figure>
+								
+								<div class="overlay">
+									<div class="inner">
+										<div class="social">
+											<a href="images\gallery\g15.jpg" data-fancybox-group="example-gallery" class="view lightbox-image"><i class="flaticon-add"></i></a>	
+											
+										</div>
+										
+									</div>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+					<div class="col-md-6 col-sm-6 col-xs-12 filter-item Gardening Cleaning Lawn">
+						<div class="single-item">
+							<div class="img-box">
+								<figure><img src="images\gallery\g16.jpg" alt="Awesome Image"></figure>
+								
+								<div class="overlay">
+									<div class="inner">
+										<div class="social">
+											<a href="images\gallery\g16.jpg" data-fancybox-group="example-gallery" class="view lightbox-image"><i class="flaticon-add"></i></a>	
+											
+										</div>
+										
+									</div>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+					<div class="col-md-6 col-sm-6 col-xs-12 filter-item Watering Cleaning Lawn">
+						<div class="single-item">
+							<div class="img-box">
+								<figure><img src="images\gallery\g17.jpg" alt="Awesome Image"></figure>
+								
+								<div class="overlay">
+									<div class="inner">
+										<div class="social">
+											<a href="images\gallery\g17.jpg" data-fancybox-group="example-gallery" class="view lightbox-image"><i class="flaticon-add"></i></a>	
+											
+										</div>
+										
+									</div>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+					<div class="col-md-6 col-sm-6 col-xs-12 filter-item Cleaning Gardening video Aire Acondicionado">
+						<div class="single-item">
+							<div class="img-box">
+								<figure><img src="images\gallery\g18.jpg" alt="Awesome Image"></figure>
+								
+								<div class="overlay">
+									<div class="inner">
+										<div class="social">
+											<a href="images\gallery\g18.jpg" data-fancybox-group="example-gallery" class="view lightbox-image"><i class="flaticon-add"></i></a>	
+											
+										</div>
+										
+									</div>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+
+					<div class="col-md-6 col-sm-6 col-xs-12 filter-item Cleaning Gardening video Aire Acondicionado">
+						<div class="single-item">
+							<div class="img-box">
+								<figure><img src="images\gallery\g19.jpg" alt="Awesome Image"></figure>
+								
+								<div class="overlay">
+									<div class="inner">
+										<div class="social">
+											<a href="images\gallery\g19.jpg" data-fancybox-group="example-gallery" class="view lightbox-image"><i class="flaticon-add"></i></a>	
+											
+										</div>
+										
+									</div>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+
+					<div class="col-md-6 col-sm-6 col-xs-12 filter-item Cleaning Gardening video Aire Acondicionado">
+						<div class="single-item">
+							<div class="img-box">
+								<figure><img src="images\gallery\g20.jpg" alt="Awesome Image"></figure>
+								
+								<div class="overlay">
+									<div class="inner">
+										<div class="social">
+											<a href="images\gallery\g20.jpg" data-fancybox-group="example-gallery" class="view lightbox-image"><i class="flaticon-add"></i></a>	
+											
+										</div>
+										
+									</div>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+		
+				</div><!-- /.row -->
+			</div><!-- /.container -->
+		</section><!-- /gallery-two -->
+
+
+		 <!--subscribe-us section-->
+        <section class="subscribe-us">
+            <div class="container">
+                <div class="row">   
+                    <div class="col-md-9">
+                        <h3>Haz de tu empresa un lugar comodo para tus colaboradores!</h3>
+                        <p>Somos especialistas en nuestro trabajo </p>
+                    </div>
+                    <div class="col-md-3">
+
+                        <a href="contact.htm" class="thm-btn inverse pull-right">Contactenos</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+		
+
+		 <!-- Inicio del footer -->
+		<div class="footer">
+			<div class="container">
+				<div class="footer-upper">
+					<div class="item-list">
+						<div class="row">
+							<div class="col-md-3 col-sm-6 col-xs-12">
+								<div class="item">
+									<div class="footer-logo">
+										<figure class="image-box">
+											<img src="images\logo\logo2.png">
+										</figure>
+										
+									</div>
+									<ul class="working-hour">
+										<li><i class="fa fa-clock-o" aria-hidden="true"></i>Lunes - Viernes <span>: 8:00am - 6:00pm</span></li>
+										<li>Sabados <span>: 8:00am - 1:00pm</span></li>
+									</ul>
+									<ul class="location">
+										<li><i class="fa fa-map-marker" aria-hidden="true"></i>
+                                			Address: <span> Calle 6d # 80b 89</span>
+                                		</li>
+									</ul>
+								</div>
+							</div>						
+
+							<div class="col-md-3 col-sm-6 col-xs-12">
+								<div class="item">
+									<div class="services">
+										<h3>Servicios</h3>
+
+										<ul class="service-list">
+		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Mantenimiento preventivo</a></li>
+		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Mantenimiento correctivo</a></li>
+		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Venta de equipos</a></li>
+		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Consultorias</a></li>
+		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Instalaciones</a></li>
+		                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Hogar</a></li>
+		                                </ul>
+									</div>
+									
+								</div>
+							</div>
+
+							<div class="col-md-3 col-sm-6 col-xs-12">
+								<div class="item">
+									<h3>Boletin</h3>
+									<div class="newsletter">
+	                                    <input class="form-control" type="text" placeholder="Correo electrónico.." value="">
+	                                    <button class="" type="submit"><i class="fa fa-location-arrow"></i></button>
+	                                </div>
+	                                <div class="social-icon">
+	                                    <h3>Redes Sociales</h3>
+	                                    <ul class="icon-list">
+	                                        <li><a href="#"><i class="fa fa-facebook " aria-hidden="true"></i></a></li>
+	                                        <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+	                                        <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+	                                        <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+	                                        <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+	                                    </ul>
+	                                </div>
+								</div>
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+				
+			</div>
+			
+		</div>
+
+		<div class="footer-bottom">
+			<div class="container">
+				<p>2017 &copy; Todos los derechos reservados <span>RCV System</span></p>
+	            <ul>
+	                <li><a href="#">Acerca</a></li>
+	                <li><a href="#">Blog</a></li>
+	                <li><a href="#">Contacto</a></li>
+	            </ul>
+			</div>
+			
+		</div>
+
+		<!-- Fin del footer -->	
+ 
+
+<!-- Scroll Top Button -->
+	<button class="scroll-top tran3s color2_bg">
+		<span class="fa fa-angle-up"></span>
+	</button>
+	<!-- pre loader  -->
+	<div class="preloader"></div>
+
+
+	<!-- jQuery js -->
+	<script src="js\jquery.js"></script>
+	<!-- bootstrap js -->
+	<script src="js\bootstrap.min.js"></script>
+	<!-- jQuery ui js -->
+	<script src="js\jquery-ui.js"></script>
+	<!-- owl carousel js -->
+	<script src="js\owl.carousel.min.js"></script>
+	<!-- jQuery validation -->
+	<script src="js\jquery.validate.min.js"></script>
+	<!-- google map -->
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRvBPo3-t31YFk588DpMYS6EqKf-oGBSI"></script> 
+	<script src="js\gmap.js"></script>
+	<!-- mixit up -->
+	<script src="js\wow.js"></script>
+	<script src="js\jquery.mixitup.min.js"></script>
+	<script src="js\jquery.fitvids.js"></script>
+    <script src="js\bootstrap-select.min.js"></script>
+
+
+	<!-- revolution slider js -->
+	<script src="assets\revolution\js\jquery.themepunch.tools.min.js"></script>
+	<script src="assets\revolution\js\jquery.themepunch.revolution.min.js"></script>
+	<script src="assets\revolution\js\extensions\revolution.extension.actions.min.js"></script>
+	<script src="assets\revolution\js\extensions\revolution.extension.carousel.min.js"></script>
+	<script src="assets\revolution\js\extensions\revolution.extension.kenburn.min.js"></script>
+	<script src="assets\revolution\js\extensions\revolution.extension.layeranimation.min.js"></script>
+	<script src="assets\revolution\js\extensions\revolution.extension.migration.min.js"></script>
+	<script src="assets\revolution\js\extensions\revolution.extension.navigation.min.js"></script>
+	<script src="assets\revolution\js\extensions\revolution.extension.parallax.min.js"></script>
+	<script src="assets\revolution\js\extensions\revolution.extension.slideanims.min.js"></script>
+	<script src="assets\revolution\js\extensions\revolution.extension.video.min.js"></script>
+
+	<!-- fancy box -->
+	<script src="js\jquery.fancybox.pack.js"></script>
+	<script src="js\jquery.polyglot.language.switcher.js"></script>
+	<script src="js\nouislider.js"></script>
+	<script src="js\jquery.bootstrap-touchspin.js"></script>
+	<script src="js\SmoothScroll.js"></script>
+	<script src="js\jquery.appear.js"></script>
+	<script src="js\jquery.countTo.js"></script>
+	<script src="js\jquery.flexslider.js"></script>
+    <script src="js\jquery.magnific-popup.min.js"></script> 
+	<script src="js\isotope.js"></script>
+	<script src="js\validation.js"></script>
+	<script id="map-script" src="js\default-map.js"></script>
+	<script src="js\custom.js"></script>
+
+</div>
+	
+</body>
+</html>
