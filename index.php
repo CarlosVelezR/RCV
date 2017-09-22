@@ -336,7 +336,7 @@
 								</div>
 								<div class="text">
                                     <h4><a href="service-single.php">Carga De Refrigerante</a></h4>
-                                    <p>Realizamos la carga por peso  de refrigerante de acuerdo a la capacidad del equipo.</p>
+                                    <p>Realizamos la carga de refrigerante por peso  de acuerdo a la capacidad del equipo.</p>
                                     <div class="link-btn">
                                         <a href="service-single-mantcorrect.php">Ver servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
                                     </div>
@@ -501,13 +501,13 @@
                         <span>Todos</span>
                     </li>
                     <li data-filter=".Gardening">
-                        <span>Refrigeradores </span>
+                        <span>Aire Acondicionado </span>
                     </li>
                     <li data-filter=".Lawn">
-                        <span>Condensadoras</span>	
+                        <span>Cuarto Frio </span>	
                     </li>
                     <li data-filter=".Cleaning">
-                        <span>Neveras </span>
+                        <span>chiller </span>
                     </li>
                     <li data-filter=".Watering">
                         <span>Congeladores</span>
