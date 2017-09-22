@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
@@ -23,7 +23,7 @@
 
 <?
   include 'header.php';
- ?>
+?>
 
  <!-- Fin Master Page Header -->
 
@@ -314,7 +314,7 @@
                                     <h4><a href="service-single.php">Sistema Eléctrico</a></h4>
                                     <p>Medición de voltajes de entrada y salida y consumo de amperaje, Revisión y ajuste de terminales.</p>
                                     <div class="link-btn">
-                                        <a href="#">Ver servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+                                        <a href="service-single-mantcorrect.php">Ver servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
                                     </div>
                                 </div>
 							
@@ -338,7 +338,7 @@
                                     <h4><a href="service-single.php">Carga De Refrigerante</a></h4>
                                     <p>Realizamos la carga por peso  de refrigerante de acuerdo a la capacidad del equipo.</p>
                                     <div class="link-btn">
-                                        <a href="#">Ver servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+                                        <a href="service-single-mantcorrect.php">Ver servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
                                     </div>
                                 </div>
 							
@@ -361,7 +361,7 @@
                                     <h4><a href="service-single.php">Instalaciones</a></h4>
                                     <p>Estamos enfocados en brindar a nuestros clientes lo mejor, contamos con un personal profesional calificado y certificado.</p>
                                     <div class="link-btn">
-                                        <a href="#">Ver Servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a> 
+                                        <a href="service-single-mantprevent.php">Ver Servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a> 
                                     </div>
                                 </div>
 							
@@ -384,7 +384,7 @@
                                     <h4><a href="service-single.php">Protecciones Eléctricas</a></h4>
                                     <p>Realizamos instalaciones independientes con protección para evitar daños.</p>
                                     <div class="link-btn">
-                                        <a href="#">Ver Servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+                                        <a href="service-single-mantprevent.php">Ver Servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
                                     </div>
                                 </div>
 							
@@ -407,7 +407,7 @@
                                     <h4><a href="service-single.php">Mantenimiento Split</a></h4>
                                     <p>Limpieza interna y externa de manejadora, condensadora, y lavado de serpentín.</p>
                                     <div class="link-btn">
-                                        <a href="#">Ver Servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+                                        <a href="service-single-mantprevent.php">Ver Servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
                                     </div>
                                 </div>
 							
@@ -501,10 +501,10 @@
                         <span>Todos</span>
                     </li>
                     <li data-filter=".Gardening">
-                        <span>Regrigeradores </span>
+                        <span>Refrigeradores </span>
                     </li>
                     <li data-filter=".Lawn">
-                        <span>Condensadoras</span>
+                        <span>Condensadoras</span>	
                     </li>
                     <li data-filter=".Cleaning">
                         <span>Neveras </span>
@@ -742,7 +742,7 @@
                 <div class="row">   
                     <div class="col-md-9">
                         <h3>Haz de tu empresa un lugar comodo para tus trabajadores!</h3>
-                        <p>Our Landscaping company is a full-service firm. Our own employee work on all of designing. </p>
+                        <p>Nuestra empresa cuenta con programas de responsabilidad social empresarial para conservar el medio ambiente</p>
                     </div>
                     <div class="col-md-3">
 
@@ -772,7 +772,7 @@
                                             </div>
                                             <div class="choose-text">
                                                 <h4><a href="#">Amigables</a></h4>
-                                                <p>Realizamos buenas costumbres para cuidar el planeta.</p>
+                                                <p>Realizamos buenas prácticas para cuidar el planeta.</p>
                                             </div>
                                         </div>
                                     </div>
