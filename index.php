@@ -358,8 +358,8 @@
 									</div>
 								</div>
 								<div class="text">
-                                    <h4><a href="service-single.php">Toma De Presiones</a></h4>
-                                    <p>Toma de presión por baja y alta para determinar fugas en el sistema.</p>
+                                    <h4><a href="service-single.php">Instalaciones</a></h4>
+                                    <p>Estamos enfocados en brindar a nuestros clientes lo mejor, contamos con un personal profesional calificado y certificado.</p>
                                     <div class="link-btn">
                                         <a href="service-single-mantprevent.php">Ver Servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a> 
                                     </div>
