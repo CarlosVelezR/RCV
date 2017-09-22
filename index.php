@@ -525,7 +525,7 @@
                                         <a href="#"><i class="flaticon-nature-5"></i></a>
                                     </div>
                                 </div>
-                                <h4><a href="#">Refrigeradores</a></h4>
+                                <h4><a href="#">Piso Techo</a></h4>
                                 
                             </div>
                             
@@ -606,7 +606,7 @@
                                         <a href="#"><i class="flaticon-nature-5"></i></a>
                                     </div>
                                 </div>
-                                <h4><a href="single-project.php">Congeladores</a></h4>
+                                <h4><a href="single-project.php">Tipo Ventana</a></h4>
                                 
                             </div>
                             
