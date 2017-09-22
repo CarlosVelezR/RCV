@@ -941,8 +941,8 @@
 	                                    <li><i class="fa fa-comments" aria-hidden="true"></i>4 Comments</li>
 	                                </ul>
 
-	                                <h4><a href="blog-details.php">Condensadora LG </a></h4>
-                                	<p>Rcv Air System líder en la distribución unidad condensadoras, es una empresa con más de 5 años en el mercado. Somos  distribuidores de todas las marcas con el primer lugar en ventas a nivel nacional.</p>
+	                                <h4><a href="blog-details.php">Condensadoras</a></h4>
+                                	<p>Rcv Air System líder en la distribución de unidades condensadoras,es una empresa con más de 5 años en el mercado. Somos  distribuidores de todas las marcas con el primer lugar en ventas a nivel nacional.</p>
 								</div>
 							</div>
 						</div>		
