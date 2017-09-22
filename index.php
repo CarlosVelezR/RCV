@@ -959,7 +959,7 @@
 	                                </ul>
 
 	                                <h4><a href="#">Refrigeraciòn industrial </a></h4>
-                                	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                	<p>Diseñamos una gama de Cuartos Fríos Modulares,  a la medida acorde con sus necesidades, idóneos para simples y complejos proyectos. Diseño y desarrollo que garantiza un acabado estético y un buen desempeño estructural.</p>
 
 								</div>
 							</div>
