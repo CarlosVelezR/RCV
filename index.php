@@ -542,7 +542,7 @@
                                         <a href="#"><i class="flaticon-nature-5"></i></a>
                                     </div>
                                 </div>
-                                <h4><a href="#">Condensadores</a></h4>
+                                <h4><a href="#">Condensadoras</a></h4>
                                 
                             </div>
                             
@@ -942,7 +942,7 @@
 	                                </ul>
 
 	                                <h4><a href="blog-details.php">Condensadora LG </a></h4>
-                                	<p>Rcv Air System líder en la distribución unidad condensadora, es una empresa con más de 4 años en el mercado. Somos el distribuidor mayorista Carrier con el primer lugar en ventas a nivel nacional.</p>
+                                	<p>Rcv Air System líder en la distribución unidad condensadoras, es una empresa con más de 5 años en el mercado. Somos  distribuidores de todas las marcas con el primer lugar en ventas a nivel nacional.</p>
 								</div>
 							</div>
 						</div>		
@@ -958,7 +958,7 @@
 	                                    <li><i class="fa fa-comments" aria-hidden="true"></i>4 Comments</li>
 	                                </ul>
 
-	                                <h4><a href="#">Refrigerador industrial </a></h4>
+	                                <h4><a href="#">Refrigeraciòn industrial </a></h4>
                                 	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
 								</div>
