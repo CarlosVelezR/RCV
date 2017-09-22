@@ -359,7 +359,7 @@
 								</div>
 								<div class="text">
                                     <h4><a href="service-single.php">Instalaciones</a></h4>
-                                    <p>Estamos enfocados en brindar a nuestros clientes lo mejor, contamos con un personal profesional calificado y certificado para generar confianza y satisfacción en el cuidado de sus equipos.</p>
+                                    <p>Estamos enfocados en brindar a nuestros clientes lo mejor, contamos con un personal profesional calificado y certificado.</p>
                                     <div class="link-btn">
                                         <a href="#">Ver Servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a> 
                                     </div>
