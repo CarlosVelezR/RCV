@@ -977,7 +977,7 @@
 	                                </ul>
 
 	                                <h4><a href="#">Refrigeracion Comercial </a></h4>
-                                	<p>Refrigeracion comercial. Nacional e internacional. RCV.Air System, se enorgullece de ofrecer los servicios de refrigeracion comercial,industrial,aire Acondiciondo a los negocios desde hospitales y entidades publicas hasta restaurantes y hoteles etc. Cubrimos emergencias las 24 horas del dia, de Domingo a Domingo ..</p>
+                                	<p>RCV.Air System, se enorgullece de ofrecer los servicios de refrigeracion comercial,industrial,aire Acondiciondo a los Negocios, hospitales , entidades publicas , restaurantes y hoteles etc. Cubrimos emergencias las 24 horas del dia, de Domingo a Domingo ..</p>
 
 								</div>
 							</div>
