@@ -358,7 +358,7 @@
 									</div>
 								</div>
 								<div class="text">
-                                    <h4><a href="service-single.php">Toma De Presiones</a></h4>
+                                    <h4><a href="service-single.php">Instalaciones</a></h4>
                                     <p>Toma de presión por baja y alta para determinar fugas en el sistema.</p>
                                     <div class="link-btn">
                                         <a href="#">Ver Servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a> 
