@@ -52,11 +52,11 @@
                     <div class="col-md-6 col-sm-12">
                         <div class="single-item">
                         	<div class="sec-title">
-                        		<h2>Mantenimiento preventivo</h2>
+                        		<h2>Mantenimiento Correctivo</h2>
                         	</div>
                             
-                            <p>Para evitar el deterioro de los equipos, es aconsejable realizar mantenimiento trimestralmente <br>Nosotros somos lideres y conocemos a fondo la mayor parte de dispositivos de aire acondicionado dando al cliente mayor confiabilidad a la hora de realizar manetenimientos.</p>
-                            <p>Tenemos alternativas y grandes descuentos si persiste el servicio de mantenimiento preventivo. Contactanos para mayor información a nuestras líneas de atención.</p>
+                            <p> El mantenimiento Correctivo de sistemas frigoríficos o sistemas de refrigeración corresponden a arreglos mecánicos que se  utilizan para corregir fallas fisicas ocacionadas ya sea por desgaste o fallas electricas... <br>Nosotros somos lideres y conocemos a fondo la mayor parte de dispositivos de refrigeracion dando al cliente mayor confiabilidad a la hora de realizar manetenimientos correctivos estamos dispuestos para usted en el momento que lo requiera .</p>
+                            <p>Tenemos alternativas y grandes descuentos si persiste el servicio de mantenimiento preventivo o correctivo  . Contactanos para mayor información a nuestras líneas de atención.</p>
                         </div>
                     </div>       
                     <div class="col-md-6 col-sm-12">
