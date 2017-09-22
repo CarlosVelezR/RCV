@@ -542,7 +542,7 @@
                                         <a href="#"><i class="flaticon-nature-5"></i></a>
                                     </div>
                                 </div>
-                                <h4><a href="#">Condensadoras</a></h4>
+                                <h4><a href="#">Mini split</a></h4>
                                 
                             </div>
                             
@@ -558,7 +558,7 @@
                                         <a href="#"><i class="flaticon-nature-5"></i></a>
                                     </div>
                                 </div>
-                                <h4><a href="#">Congeladores</a></h4>
+                                <h4><a href="#">Paquetes</a></h4>
                                 
                             </div>
                             
@@ -574,7 +574,7 @@
                                        <a href="#"><i class="flaticon-nature-5"></i></a>
                                     </div>
                                 </div>
-                                <h4><a href="#">Congeladores</a></h4>
+                                <h4><a href="#">fan Coil</a></h4>
                                 
                             </div>
                             
@@ -590,7 +590,7 @@
                                         <a href="#"><i class="flaticon-nature-5"></i></a>
                                     </div>
                                 </div>
-                                <h4><a href="#">Congeladores</a></h4>
+                                <h4><a href="#">Split Central</a></h4>
                                 
                             </div>
                             
