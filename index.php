@@ -606,7 +606,7 @@
                                         <a href="#"><i class="flaticon-nature-5"></i></a>
                                     </div>
                                 </div>
-                                <h4><a href="single-project.php">Tipo Ventana</a></h4>
+                                <h4><a href="single-project.php">Chiller</a></h4>
                                 
                             </div>
                             
