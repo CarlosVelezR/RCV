@@ -66,6 +66,7 @@
 					                        <ul>					                        
 												<li><a href="service-single-mantprevent.php">Mantenimiento preventivo</a></li>
 												<li><a href="service-single-mantcorrect.php">Mantenimiento correctivo</a></li>
+												<li><a href="service-single-mant.php">Campanas extractoras</a></li>
 <!-- 												<li><a href="service-single-mantcorrect.php">Instalación de equipos</a></li>
 												<li><a href="service-single-mantcorrect.php">Refrigeración</a></li>	 -->	
 											</ul>	

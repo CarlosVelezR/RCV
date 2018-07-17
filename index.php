@@ -976,7 +976,7 @@
 	                                </ul>
 
 	                                <h4><a href="#">Nuevos equipos </a></h4>
-                                	<p>Manejamos tecnología de punta, consulte aquí los nuevos equipos para su empresa o negocio.</p>
+                                	<p>Manejamos tecnología de punta, consulte aquí los nuevos equipos para su empresa o negocioc.</p>
 
 								</div>
 							</div>

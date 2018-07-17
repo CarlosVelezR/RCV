@@ -113,7 +113,7 @@
                                 <div class="inner-box">
                                     <div class="icon-box"><span class="icon fa fa-mobile"></span></div>
                                     <h3>Teléfono</h3>
-                                    <div class="text"><p>311 497 9115 <br>(+57) 473 24 03</p></div>
+                                    <div class="text"><p>311 497 9115 <br>(+57) 642 10 33</p></div>
                                 </div>
                             </div>
                         </div>
