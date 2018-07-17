@@ -254,7 +254,6 @@
             </div>
         </section>
 
-
 		
 		<!--.Welcome-seciton-->
         <section class="welcome-seciton">
@@ -958,8 +957,8 @@
 	                                    <li><i class="fa fa-comments" aria-hidden="true"></i>4 Comments</li>
 	                                </ul>
 
-	                                <h4><a href="#">Refrigerador industrial </a></h4>
-                                	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+	                                <h4><a href="#">Refrigeración industrial </a></h4>
+                                	<p>Brindamos servicio de mantenimiento e instalación de equipos industriales de refrigeración para su empresa y negocio.</p>
 
 								</div>
 							</div>
@@ -977,7 +976,7 @@
 	                                </ul>
 
 	                                <h4><a href="#">Nuevos equipos </a></h4>
-                                	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                	<p>Manejamos tecnología de punta, consulte aquí los nuevos equipos para su empresa o negocio.</p>
 
 								</div>
 							</div>
