@@ -20,7 +20,7 @@
 <body>
 	<!-- Master Page Header -->
 
-<?
+<?	
   include 'header.php';
  ?>
 
@@ -30,12 +30,13 @@
         <section class="page-banner" style="background-image:url(images/resources/single-service.jpg);">
             <div class="container">
                 <div class="content">
-                    <h2>Mantenimiento Correctivo</h2>
-                    <p>Solucione problemas con sus equipos de refrigeración!</p>
+                    <h2>Mantenimientos</h2>
+                    <p>Realizamos 2 tipos de mantenimientos!</p>
                 </div>
                 <ul class="breadcumb">
                     
-                    <li><a class="active" href="service-single-mantcorrect.php">Mantenimiento Correctivo</a></li>
+					<li><a class="active" href="service-single-mantcorrect.php">Mantenimiento Correctivo</a></li>
+
                 </ul>
             </div>
         </section>
@@ -58,8 +59,35 @@
                             <p>Para evitar el deterioro de los equipos, es aconsejable realizar mantenimiento trimestralmente <br>Nosotros somos lideres y conocemos a fondo la mayor parte de dispositivos de aire acondicionado dando al cliente mayor confiabilidad a la hora de realizar manetenimientos.</p>
                             <p>Tenemos alternativas y grandes descuentos si persiste el servicio de mantenimiento preventivo. Contactanos para mayor información a nuestras líneas de atención</p>
                         </div>
-                    </div>       
+                    </div>
+
+					<div class="row">
                     <div class="col-md-6 col-sm-12">
+                        <div class="single-item">
+                        	<div class="sec-title">
+                        		<h2>Mantenimiento Preventivo</h2>
+                        	</div>
+                            
+							<li><b>- Limpieza y desinfección del intercambiador interno (evaporador).</b></li>
+											<li>- Limpieza y desinfección del intercambiador externo (condensador). </li>
+											<li>- Limpieza, drenaje, y desinfección del circuito de evacuación de condensados, y desagüe.</li>
+											<li>- Comprobación de estanquidad de refrigerante en tuberías.</li>
+											<li>- Comprobación de estanquidad de aceites de compresores y motores.</li>
+											<li>- Revisión y limpieza de filtros de aire.</li>
+											<li>- Revisión y limpieza de filtros de agua.</li>
+											<li>- Revisión y tarado de elementos de seguridad,</li>
+											<li>- Ajuste de contactos eléctricos de fuerza y control. </li>
+											<li>- Limpieza y ajuste de placa electrónica.</li>
+										</ul>
+								<p>Para evitar el deterioro de los equipos, es aconsejable realizar mantenimiento trimestralmente
+								Nosotros somos lideres y conocemos a fondo la mayor parte de dispositivos de aire acondicionado dando al cliente mayor confiabilidad a la hora de realizar manetenimientos.
+								Tenemos alternativas y grandes descuentos si persiste el servicio de mantenimiento preventivo. Contactanos para mayor información a nuestras líneas de atención<p>
+
+                        </div>
+                    </div>       
+
+
+                   <!-- <div class="col-md-6 col-sm-12">
                         <div class="row">
                         	<div class="related-service">
                         		<div class="sec-title">
@@ -79,6 +107,8 @@
 												</div>
 											</div>
 										</div>
+
+										
 										<div class="text">
 		                                    <h4><a href="service-single-mantcorrect.php">Mantenimiento correctivo</a></h4>
 		                                    <p>Este tipo de mantenimiento permite corregir mal funcionamiento</p>
@@ -109,7 +139,7 @@
 		                                    <div class="link-btn">
 		                                        <a href="service-single-install.php">Ver servicio<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
 		                                    </div>
-		                                </div>
+		                                </div> -->
 									
 									</div>
 	                        	</div>
