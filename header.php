@@ -30,7 +30,7 @@
                     <ul class="list">
                         <li><a href="#"><i class="fa fa-whatsapp" aria-hidden="true"></i>
                         318 7976101</a></li>
-                        <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i>sac@rcvairsystem.com</a></li>
+                        <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i>ventas@rcvairsystem.com</a></li>
                     </ul>
 				</div>
 			</div>
@@ -61,17 +61,6 @@
 					                <ul class="navigation clearfix">
 
 					                    <li class="current"><a href="index.php">Inicio</a></li>	 
-
-					                    <!--                 
-					                    <li class="dropdown"><a href="#">Servicios</a>
-						                    
-					                        <ul>					                        
-												<li><a href="service-single-mantprevent.php">Mantenimiento preventivo</a></li>
-												<li><a href="service-single-mantcorrect.php">Mantenimiento correctivo</a></li>
-												<li><a href="service-single-mant.php">Campanas extractoras</a></li>	
-											</ul>	
-					                    </li>-->
-
 					                    <li class=""><a href="service-mantenimiento.php">Mantenimiento</a></li>
 					                     <li class=""><a href="aboutus.php">Empresa</a></li>
 					                     <li class=""><a href="sales.php">Ventas</a></li>
