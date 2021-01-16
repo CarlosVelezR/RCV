@@ -125,7 +125,7 @@
                                 <div class="inner-box">
                                     <div class="icon-box"><span class="icon fa fa-envelope-o"></span></div>
                                     <h3>Email</h3>
-                                    <div class="text"><p>Sac@rcvsystem.com <br>Support@rcvsystem.com</p></div>
+                                    <div class="text"><p>Sac@rcvairsystem.com <br>Support@rcvairsystem.com</p></div>
                                 </div>
                             </div>
                         </div>
@@ -137,14 +137,7 @@
         </section>
 <!--FIN Iconos verdes de contacto-->  
 
-		<section class="contact_details sec-padd">
-			
-				<div class="home-google-map">
-					<div class="google-map" id="contact-google-map" data-map-lat="32.309164" data-map-lng="-90.138899" data-icon-path="images/logo/map-marker.png" data-map-title="Chester" data-map-zoom="10">
-					</div>
-				</div>
-			
-		</section>
+
 
 		<!--Footer pie de página-->
 <?

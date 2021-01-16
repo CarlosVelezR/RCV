@@ -28,9 +28,9 @@
                 <!--Top Right-->
 				<div class="top-right pull-right">
                     <ul class="list">
-                        <li><a href="#"><i class="fa fa-clock-o" aria-hidden="true"></i>
-                        08:00am - 06:00pm (Lun- Vie)</a></li>
-                        <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i>sac@rcvsystem.com</a></li>
+                        <li><a href="#"><i class="fa fa-whatsapp" aria-hidden="true"></i>
+                        318 7976101</a></li>
+                        <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i>sac@rcvairsystem.com</a></li>
                     </ul>
 				</div>
 			</div>
@@ -60,17 +60,21 @@
 					            <div class="navbar-collapse collapse clearfix">
 					                <ul class="navigation clearfix">
 
-					                    <li class="current"><a href="index.php">Inicio</a></li>	                  
+					                    <li class="current"><a href="index.php">Inicio</a></li>	 
+
+					                    <!--                 
 					                    <li class="dropdown"><a href="#">Servicios</a>
 						                    
 					                        <ul>					                        
 												<li><a href="service-single-mantprevent.php">Mantenimiento preventivo</a></li>
 												<li><a href="service-single-mantcorrect.php">Mantenimiento correctivo</a></li>
-												<li><a href="service-single-mant.php">Campanas extractoras</a></li>
-<!-- 												<li><a href="service-single-mantcorrect.php">Instalación de equipos</a></li>
-												<li><a href="service-single-mantcorrect.php">Refrigeración</a></li>	 -->	
+												<li><a href="service-single-mant.php">Campanas extractoras</a></li>	
 											</ul>	
-					                    </li>
+					                    </li>-->
+
+					                    <li class=""><a href="service-mantenimiento.php">Mantenimiento</a></li>
+					                     <li class=""><a href="aboutus.php">Empresa</a></li>
+					                     <li class=""><a href="sales.php">Ventas</a></li>
 
 					                    <li><a href="contact.php">Contacto</a></li>
 					                </ul>
