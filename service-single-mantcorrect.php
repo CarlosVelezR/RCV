@@ -52,7 +52,7 @@
                     <div class="col-md-6 col-sm-12">
                         <div class="single-item">
                         	<div class="sec-title">
-                        		<h2>Mantenimiento preventivo</h2>
+                        		<h2>Mantenimiento Correctivo</h2>
                         	</div>
                             
                             <p>Para evitar el deterioro de los equipos, es aconsejable realizar mantenimiento trimestralmente <br>Nosotros somos lideres y conocemos a fondo la mayor parte de dispositivos de aire acondicionado dando al cliente mayor confiabilidad a la hora de realizar manetenimientos.</p>
