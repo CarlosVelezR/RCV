@@ -113,7 +113,7 @@
                                 <div class="inner-box">
                                     <div class="icon-box"><span class="icon fa fa-mobile"></span></div>
                                     <h3>Teléfono</h3>
-                                    <div class="text"><p>311 497 9115 <br>(+57) 642 10 33</p></div>
+                                    <div class="text"><p>318 797 6101 <br>(+57) 642 10 33</p></div>
                                 </div>
                             </div>
                         </div>
@@ -125,7 +125,7 @@
                                 <div class="inner-box">
                                     <div class="icon-box"><span class="icon fa fa-envelope-o"></span></div>
                                     <h3>Email</h3>
-                                    <div class="text"><p>Sac@rcvairsystem.com <br>Support@rcvairsystem.com</p></div>
+                                    <div class="text"><p>ventas@rcvairsystem.com <br>soporte@rcvairsystem.com</p></div>
                                 </div>
                             </div>
                         </div>
@@ -162,7 +162,6 @@
 	<!-- jQuery validation -->
 	<script src="js\jquery.validate.min.js"></script>
 	<!-- google map -->
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRvBPo3-t31YFk588DpMYS6EqKf-oGBSI"></script> 
 	<script src="js\gmap.js"></script>
 	<!-- mixit up -->
 	<script src="js\wow.js"></script>
