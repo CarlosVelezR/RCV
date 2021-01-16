@@ -135,7 +135,7 @@ include 'header.php';
                         		
                         </div>
                         <!--Segunda columna del texto-->
-						<div class="bodytext" align="justify">
+						<!--<div class="bodytext" align="justify">
 						<ul>
 							<li>Ajuste de elementos móviles, revisión de vibraciones y equilibrado de motores, ventiladores o bombas.</li>
 							<li>Revisión del estado del aislamiento térmico, reconstrucción en caso necesario.</li>
@@ -149,7 +149,7 @@ include 'header.php';
 							<p>4.RCV. Air system, realizará un análisis y evaluación periódica del rendimiento de los equipos generadores de frío en función de su potencia térmica nominal, midiendo y registrando los valores, de acuerdo con las operaciones y periodicidades.</p></br>
 							<p class="bodytext">
 								La empresa RCV. Air system. Realizará un seguimiento de la evolución del consumo de energía, con el fin de poder detectar posibles desviaciones y tomar las medidas correctivas y oportunas. Esta información se conservará por un plazo de, al menos, de cinco años.
-							</p>
+							</p>-->
 						<div>
 						</div>	
                     </div> 
