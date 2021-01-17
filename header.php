@@ -63,7 +63,7 @@
 					                    <li class="current"><a href="index.php">Inicio</a></li>	 
 					                    <li class=""><a href="service-single-mantcorrect.php">Mantenimiento</a></li>
 					                     <li class=""><a href="aboutus.php">Empresa</a></li>
-					                     <li class=""><a href="sales.php">Ventas</a></li>
+					                     <!--<li class=""><a href="sales.php">Ventas</a></li>-->
 
 					                    <li><a href="contact.php">Contacto</a></li>
 					                </ul>

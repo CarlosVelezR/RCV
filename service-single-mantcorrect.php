@@ -48,6 +48,30 @@
                 <div class="img-holder">
                    <figure><img src="images\gallery\20.jpg" alt="Images"></figure>  
                 </div>
+
+
+                <div class="row">
+                    <div class="col-md-6 col-sm-12">
+                        <div class="single-item">
+                        	<div class="sec-title">
+                        		<h2>Mantenimiento Preventivo</h2>
+                        	</div>
+                            
+							<li>- Limpieza y desinfección del intercambiador interno (evaporador).</li>
+											<li>- Limpieza y desinfección del intercambiador externo (condensador). </li>
+											<li>- Limpieza, drenaje, y desinfección del circuito de evacuación de condensados, y desagüe.</li>
+											<li>- Comprobación de estanquidad de refrigerante en tuberías.</li>
+											<li>- Comprobación de estanquidad de aceites de compresores y motores.</li>
+											<li>- Revisión y limpieza de filtros de aire.</li>
+											<li>- Revisión y limpieza de filtros de agua.</li>
+											<li>- Revisión y tarado de elementos de seguridad,</li>
+											<li>- Ajuste de contactos eléctricos de fuerza y control. </li>
+											<li>- Limpieza y ajuste de placa electrónica.</li>
+										</ul>
+							
+
+                        </div>
+                    </div>   
            
                 <div class="row">
                     <div class="col-md-6 col-sm-12">
@@ -61,30 +85,7 @@
                         </div>
                     </div>
 
-					<div class="row">
-                    <div class="col-md-6 col-sm-12">
-                        <div class="single-item">
-                        	<div class="sec-title">
-                        		<h2>Mantenimiento Preventivo</h2>
-                        	</div>
-                            
-							<li><b>- Limpieza y desinfección del intercambiador interno (evaporador).</b></li>
-											<li>- Limpieza y desinfección del intercambiador externo (condensador). </li>
-											<li>- Limpieza, drenaje, y desinfección del circuito de evacuación de condensados, y desagüe.</li>
-											<li>- Comprobación de estanquidad de refrigerante en tuberías.</li>
-											<li>- Comprobación de estanquidad de aceites de compresores y motores.</li>
-											<li>- Revisión y limpieza de filtros de aire.</li>
-											<li>- Revisión y limpieza de filtros de agua.</li>
-											<li>- Revisión y tarado de elementos de seguridad,</li>
-											<li>- Ajuste de contactos eléctricos de fuerza y control. </li>
-											<li>- Limpieza y ajuste de placa electrónica.</li>
-										</ul>
-								<p>Para evitar el deterioro de los equipos, es aconsejable realizar mantenimiento trimestralmente
-								Nosotros somos lideres y conocemos a fondo la mayor parte de dispositivos de aire acondicionado dando al cliente mayor confiabilidad a la hora de realizar manetenimientos.
-								Tenemos alternativas y grandes descuentos si persiste el servicio de mantenimiento preventivo. Contactanos para mayor información a nuestras líneas de atención<p>
-
-                        </div>
-                    </div>       
+					    
 
 
                    <!-- <div class="col-md-6 col-sm-12">
