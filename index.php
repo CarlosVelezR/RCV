@@ -517,14 +517,14 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 filter-item Watering">
                         <div class="project-item">
                             <div class="img-holder">
-                                <figure><img src="images\project\1.jpg" alt="Awesome Image"></figure>
+                                <figure><img src="images\project\1.jpeg" alt="Awesome Image"></figure>
                                 
                                 <div class="overlay">
                                     <div class="inner">
                                         <a href="#"><i class="flaticon-nature-5"></i></a>
                                     </div>
                                 </div>
-                                <h4><a href="#">Refrigeradores</a></h4>
+                                <h4><a href="#">Evaporador</a></h4>
                                 
                             </div>
                             
@@ -534,14 +534,14 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 filter-item Gardening Lawn Cleaning">
                         <div class="project-item">
                             <div class="img-holder">
-                                <figure><img src="images\project\2.jpg" alt="Awesome Image"></figure>
+                                <figure><img src="images\project\2.png" alt="Awesome Image"></figure>
                                 
                                 <div class="overlay">
                                     <div class="inner">
                                         <a href="#"><i class="flaticon-nature-5"></i></a>
                                     </div>
                                 </div>
-                                <h4><a href="#">Condensadores</a></h4>
+                                <h4><a href="#">Mini Split</a></h4>
                                 
                             </div>
                             
@@ -550,14 +550,14 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 filter-item Gardening Lawn Cleaning">
                         <div class="project-item">
                             <div class="img-holder">
-                                <figure><img src="images\project\3.jpg" alt="Awesome Image"></figure>
+                                <figure><img src="images\project\3.jpeg" alt="Awesome Image"></figure>
                                 
                                 <div class="overlay">
                                     <div class="inner">
                                         <a href="#"><i class="flaticon-nature-5"></i></a>
                                     </div>
                                 </div>
-                                <h4><a href="#">Congeladores</a></h4>
+                                <h4><a href="#">Condensadora</a></h4>
                                 
                             </div>
                             
@@ -605,7 +605,7 @@
                                         <a href="#"><i class="flaticon-nature-5"></i></a>
                                     </div>
                                 </div>
-                                <h4><a href="single-project.php">Congeladores</a></h4>
+                                <h4><a href="single-project.php">Chiller</a></h4>
                                 
                             </div>
                             
