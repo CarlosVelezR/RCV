@@ -165,6 +165,19 @@
                                         <p><i class="fa fa-clock-o" aria-hidden="true"></i>¡Envianos un Mensaje!</p>
                                     </div>
                                 </div>
+
+								<div class="single-news">
+                                    <figure class="image-holder">
+                                        <a href="#"><img src="images\resources\footer-rp2.jpg" alt="Images"></a>
+                                    </figure>
+
+                                    <div class="text">
+                                        <h4><a href="contact.php">soporte@rcvairsystem.com</a>
+                                        </h4>
+                                        <p><i class="fa fa-clock-o" aria-hidden="true"></i>¡Envianos un Mensaje!</p>
+                                    </div>
+                                </div>
+
                             </div>
 							
 							<!--.sidebar_tags -->

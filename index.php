@@ -937,11 +937,11 @@
 
 									<ul class="comments">
 	                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i>Sun, Feb 19</li>
-	                                    <li><i class="fa fa-comments" aria-hidden="true"></i>4 Comments</li>
+	                                    <li><i class="fa fa-comments" aria-hidden="true"></i>4 Comentarios</li>
 	                                </ul>
 
-	                                <h4><a href="blog-details.php">Condensadora LG </a></h4>
-                                	<p>Rcv Air System líder en la distribución unidad condensadora, es una empresa con más de 4 años en el mercado. Somos el distribuidor mayorista Carrier con el primer lugar en ventas a nivel nacional.</p>
+	                                <h4><a href="blog-details.php">Condensadora </a></h4>
+                                	<!--<p>Rcv Air System líder en la distribución unidad condensadora, es una empresa con más de 4 años en el mercado. Somos distribuidor mayorista en ventas a nivel nacional.</p>-->
 								</div>
 							</div>
 						</div>		
@@ -954,11 +954,11 @@
 								
 									<ul class="comments">
 	                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i>Sun, Feb 19</li>
-	                                    <li><i class="fa fa-comments" aria-hidden="true"></i>4 Comments</li>
+	                                    <li><i class="fa fa-comments" aria-hidden="true"></i>4 Comentarios</li>
 	                                </ul>
 
-	                                <h4><a href="#">Refrigeración industrial </a></h4>
-                                	<p>Brindamos servicio de mantenimiento e instalación de equipos industriales de refrigeración para su empresa y negocio.</p>
+	                                <h4><a href="#">Casette de 4 vías </a></h4>
+                                	<!--<p>Brindamos servicio de mantenimiento e instalación de equipos industriales de refrigeración para su empresa y negocio.</p>-->
 
 								</div>
 							</div>
@@ -972,11 +972,11 @@
 								
 									<ul class="comments">
 	                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i>Sun, Feb 19</li>
-	                                    <li><i class="fa fa-comments" aria-hidden="true"></i>4 Comments</li>
+	                                    <li><i class="fa fa-comments" aria-hidden="true"></i>4 Comentarios</li>
 	                                </ul>
 
-	                                <h4><a href="#">Nuevos equipos </a></h4>
-                                	<p>Manejamos tecnología de punta, consulte aquí los nuevos equipos para su empresa o negocioc.</p>
+	                                <h4><a href="#">Split Piso Techo </a></h4>
+                                	<!--<p>Manejamos tecnología de punta, consulte aquí los nuevos equipos para su empresa o negocioc.</p>-->
 
 								</div>
 							</div>
