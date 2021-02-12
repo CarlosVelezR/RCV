@@ -228,7 +228,7 @@
 									</div>
 								</div>
 								<div class="text">
-                                    <h4><a href="service-single.php">Protecciones Eléctricas</a></h4>
+                                    <h4><a href="service-single.php">Tablero eléctrico</a></h4>
                                     <p>Realizamos instalaciones independientes con protección para evitar daños.</p>
                                     <div class="link-btn">
                                         <a href="service-single-mantprevent.php">Ver Servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
@@ -253,6 +253,55 @@
 								<div class="text">
                                     <h4><a href="service-single.php">Mantenimiento Split</a></h4>
                                     <p>Limpieza interna y externa de manejadora, condensadora, y lavado de serpentín.</p>
+                                    <div class="link-btn">
+                                        <a href="service-single-mantprevent.php">Ver Servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+                                    </div>
+                                </div>
+							
+							</div>
+
+                            <!--Cuarto Frio-->
+                            <div class="item">
+								<div class="img_holder">							
+									<img src="images\service\6.jpg" alt="Awesome Image">
+									<div class="overlay">
+										<div class="inner">
+											<div class="social">
+												<a href="#"><i class="flaticon-nature-6"></i></a>	
+												
+											</div>
+											
+										</div>
+									</div>
+								</div>
+								<div class="text">
+                                    <h4><a href="service-single.php">Cuartos frios</a></h4>
+                                    <p>Mantenimiento preventivo y correctivo cuartos fríos</p>
+                                    <div class="link-btn">
+                                        <a href="service-single-mantprevent.php">Ver Servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+                                    </div>
+                                </div>
+							
+							</div>
+
+
+                            <!--Evaporadoras-->
+                            <div class="item">
+								<div class="img_holder">							
+									<img src="images\service\7.jpg" alt="Awesome Image">
+									<div class="overlay">
+										<div class="inner">
+											<div class="social">
+												<a href="#"><i class="flaticon-nature-6"></i></a>	
+												
+											</div>
+											
+										</div>
+									</div>
+								</div>
+								<div class="text">
+                                    <h4><a href="service-single.php">Evaporadoras</a></h4>
+                                    <p>Mantenimiento preventivo y correctivo.</p>
                                     <div class="link-btn">
                                         <a href="service-single-mantprevent.php">Ver Servicios<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
                                     </div>
@@ -576,7 +625,7 @@
                 </div>
             </div>
         </section>
-        
+
 		<section class="latest-news">
 			<div class="container">
 				<div class="sec-title">

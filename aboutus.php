@@ -68,10 +68,10 @@
 										</ul>
 									</div>
 									<div class="post-desc">
-										<div class="text"><p>Somos una empresa dedicada a la prestación de servicios y venta de equipos industriales de aire acondicionado, calefacción y refrigeración. Contamos con amplia experiencia en nuestra experiencia como compañía en la prestación de servicios de mantenimiento, reparación de equipos industriales.</p></div>
+										<div class="text"><p>Somos una empresa dedicada a la prestación de servicios de mantenimiento y venta de equipos industriales de aire acondicionado, calefacción, refrigeración, cuartos frios y cavas. En nuestra compañía contamos con amplia experiencia en el diagnóstico, mantenimiento, reparación de equipos industriales, comerciales y domésticos caracterizándonos por la intervención oportuna y un excelente servicio al cliente. </p></div>
 										
-										<div class="text style-two"><p>Estamos liderando el mercado por nuestra amplia experiencia en el sector de refrigeración, si desea contactarnos por favor no dude en hacerlo a través de nuestros canales de atención al cliente</p></div>
-										
+										<div class="text style-two"><p>En la actualidad, somos líderes en el mercado y nuestro principal objetivo es brindar a nuestros clientes una solución acorde a sus necesidades. Por ello nuestros clientes nos recomiendan ya que brindamos un servicio profesional de calidad.</p></div>
+										<div class="text"><p>Si desea contactarnos por favor no dude en hacerlo a través de nuestros canales de atención al cliente.</p></div>
 										
 									 
 									</div>
