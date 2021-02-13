@@ -3,7 +3,7 @@
 //Descripción: Función que permite contacterse desde la página web por medio del formulario, y es enviado al correo.
 if(isset($_POST['Email'])) {
 //Correo a enviar mensaje y asunto
-$email_to = "sac@rcvsystem.com";
+$email_to = "ventas@rcvairsystem.com";
 $email_subject = "Contacto desde el sitio web";
 // Validacion de datos.
 if(!isset($_POST['Name']) ||
