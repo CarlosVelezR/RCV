@@ -87,7 +87,7 @@
 
 		<div class="footer-bottom">
 			<div class="container">
-				<p>2017 &copy; Todos los derechos reservados <span>RCV System</span></p>
+				<p>2021 &copy; Todos los derechos reservados <span>RCV System</span></p>
 	            <ul>
 	                <li><a href="#">Acerca</a></li>
 	                <li><a href="#">Blog</a></li>
