@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
-	<title>RCV System</title>
+	<title>RCV Air System | Reparación Aire Acondicionado</title>
 	
 	<!-- mobile responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -470,7 +470,7 @@
                                        <a href="#"><i class="flaticon-nature-5"></i></a>
                                     </div>
                                 </div>
-                                <h4><a href="#">Congeladores</a></h4>
+                               <!-- <h4><a href="#">Congeladores</a></h4>-->
                                 
                             </div>
                             
